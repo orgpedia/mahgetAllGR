@@ -1,0 +1,291 @@
+2025-02-09 10:32:00 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-09 10:32:06 - Clicked on link ->None
+2025-02-09 10:32:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:32:37 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-09 10:33:13 - Clicked on link ->None
+2025-02-09 10:33:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-0.html
+2025-02-09 10:33:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:33:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-1.html
+2025-02-09 10:33:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-2.html
+2025-02-09 10:34:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-3.html
+2025-02-09 10:34:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-4.html
+2025-02-09 10:34:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-5.html
+2025-02-09 10:34:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-6.html
+2025-02-09 10:34:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-7.html
+2025-02-09 10:34:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-8.html
+2025-02-09 10:34:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:34:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-9.html
+2025-02-09 10:34:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-10.html
+2025-02-09 10:35:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-11.html
+2025-02-09 10:35:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-12.html
+2025-02-09 10:35:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-13.html
+2025-02-09 10:35:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-14.html
+2025-02-09 10:35:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-15.html
+2025-02-09 10:35:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:35:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-16.html
+2025-02-09 10:35:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-17.html
+2025-02-09 10:36:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-18.html
+2025-02-09 10:36:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-19.html
+2025-02-09 10:36:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-20.html
+2025-02-09 10:36:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-21.html
+2025-02-09 10:36:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-22.html
+2025-02-09 10:36:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:36:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-23.html
+2025-02-09 10:36:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-24.html
+2025-02-09 10:37:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-25.html
+2025-02-09 10:37:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-26.html
+2025-02-09 10:37:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-27.html
+2025-02-09 10:37:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-28.html
+2025-02-09 10:37:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-29.html
+2025-02-09 10:37:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-30.html
+2025-02-09 10:37:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:37:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-31.html
+2025-02-09 10:37:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-32.html
+2025-02-09 10:38:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-33.html
+2025-02-09 10:38:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-34.html
+2025-02-09 10:38:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-35.html
+2025-02-09 10:38:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-36.html
+2025-02-09 10:38:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-37.html
+2025-02-09 10:38:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:38:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-38.html
+2025-02-09 10:38:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-39.html
+2025-02-09 10:39:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-40.html
+2025-02-09 10:39:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-41.html
+2025-02-09 10:39:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-42.html
+2025-02-09 10:39:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-43.html
+2025-02-09 10:39:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-44.html
+2025-02-09 10:39:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-45.html
+2025-02-09 10:39:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:39:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-46.html
+2025-02-09 10:40:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-47.html
+2025-02-09 10:40:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-48.html
+2025-02-09 10:40:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-49.html
+2025-02-09 10:40:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-50.html
+2025-02-09 10:40:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-51.html
+2025-02-09 10:40:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-52.html
+2025-02-09 10:40:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:40:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-53.html
+2025-02-09 10:40:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-54.html
+2025-02-09 10:41:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-55.html
+2025-02-09 10:41:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-56.html
+2025-02-09 10:41:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-57.html
+2025-02-09 10:41:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-58.html
+2025-02-09 10:41:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-59.html
+2025-02-09 10:41:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:41:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-60.html
+2025-02-09 10:41:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-61.html
+2025-02-09 10:42:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-62.html
+2025-02-09 10:42:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-63.html
+2025-02-09 10:42:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-64.html
+2025-02-09 10:42:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-65.html
+2025-02-09 10:42:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-66.html
+2025-02-09 10:42:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:42:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-67.html
+2025-02-09 10:42:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-68.html
+2025-02-09 10:43:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-69.html
+2025-02-09 10:43:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-70.html
+2025-02-09 10:43:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-71.html
+2025-02-09 10:43:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-72.html
+2025-02-09 10:43:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-73.html
+2025-02-09 10:43:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-74.html
+2025-02-09 10:43:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:43:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-75.html
+2025-02-09 10:43:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-76.html
+2025-02-09 10:44:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-77.html
+2025-02-09 10:44:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-78.html
+2025-02-09 10:44:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-79.html
+2025-02-09 10:44:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-80.html
+2025-02-09 10:44:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-81.html
+2025-02-09 10:44:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:44:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-82.html
+2025-02-09 10:44:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-83.html
+2025-02-09 10:45:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-84.html
+2025-02-09 10:45:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-85.html
+2025-02-09 10:45:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-86.html
+2025-02-09 10:45:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-87.html
+2025-02-09 10:45:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-88.html
+2025-02-09 10:45:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-89.html
+2025-02-09 10:45:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:45:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-90.html
+2025-02-09 10:46:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-91.html
+2025-02-09 10:46:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-92.html
+2025-02-09 10:46:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-93.html
+2025-02-09 10:46:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-94.html
+2025-02-09 10:46:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-95.html
+2025-02-09 10:46:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-96.html
+2025-02-09 10:46:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:46:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-97.html
+2025-02-09 10:46:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-98.html
+2025-02-09 10:47:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-99.html
+2025-02-09 10:47:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-100.html
+2025-02-09 10:47:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-101.html
+2025-02-09 10:47:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-102.html
+2025-02-09 10:47:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-103.html
+2025-02-09 10:47:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:47:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-104.html
+2025-02-09 10:47:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-105.html
+2025-02-09 10:48:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-106.html
+2025-02-09 10:48:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-107.html
+2025-02-09 10:48:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-108.html
+2025-02-09 10:48:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-109.html
+2025-02-09 10:48:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-110.html
+2025-02-09 10:48:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-111.html
+2025-02-09 10:48:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:48:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-112.html
+2025-02-09 10:49:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-113.html
+2025-02-09 10:49:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-114.html
+2025-02-09 10:49:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-115.html
+2025-02-09 10:49:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-116.html
+2025-02-09 10:49:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-117.html
+2025-02-09 10:49:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-118.html
+2025-02-09 10:49:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:49:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-119.html
+2025-02-09 10:49:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-120.html
+2025-02-09 10:50:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-121.html
+2025-02-09 10:50:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-122.html
+2025-02-09 10:50:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-123.html
+2025-02-09 10:50:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-124.html
+2025-02-09 10:50:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-125.html
+2025-02-09 10:50:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:50:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-126.html
+2025-02-09 10:50:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-127.html
+2025-02-09 10:51:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-128.html
+2025-02-09 10:51:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-129.html
+2025-02-09 10:51:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-130.html
+2025-02-09 10:51:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-131.html
+2025-02-09 10:51:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-132.html
+2025-02-09 10:51:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:51:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-133.html
+2025-02-09 10:51:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-134.html
+2025-02-09 10:52:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-135.html
+2025-02-09 10:52:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-136.html
+2025-02-09 10:52:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-137.html
+2025-02-09 10:52:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-138.html
+2025-02-09 10:52:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-139.html
+2025-02-09 10:52:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-140.html
+2025-02-09 10:52:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:52:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-141.html
+2025-02-09 10:52:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-09 10:53:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahagri/09-Feb-2025_v1/mahagri-142.html
+2025-02-09 10:53:06 - Clicked on link [None, 'Next >', None] - Not Found

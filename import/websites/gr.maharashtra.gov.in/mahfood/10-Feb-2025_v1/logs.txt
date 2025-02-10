@@ -1,0 +1,235 @@
+2025-02-10 08:06:27 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-10 08:06:28 - Clicked on link ->None
+2025-02-10 08:06:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:06:52 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-10 08:07:07 - Clicked on link ->None
+2025-02-10 08:07:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-157.html
+2025-02-10 08:07:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:07:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-158.html
+2025-02-10 08:07:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:07:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-159.html
+2025-02-10 08:07:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:07:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-160.html
+2025-02-10 08:07:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:07:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-161.html
+2025-02-10 08:07:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:07:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-162.html
+2025-02-10 08:07:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-163.html
+2025-02-10 08:08:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-164.html
+2025-02-10 08:08:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-165.html
+2025-02-10 08:08:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-166.html
+2025-02-10 08:08:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-167.html
+2025-02-10 08:08:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-168.html
+2025-02-10 08:08:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:08:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-169.html
+2025-02-10 08:08:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-170.html
+2025-02-10 08:09:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-171.html
+2025-02-10 08:09:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-172.html
+2025-02-10 08:09:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-173.html
+2025-02-10 08:09:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-174.html
+2025-02-10 08:09:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-175.html
+2025-02-10 08:09:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:09:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-176.html
+2025-02-10 08:09:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-177.html
+2025-02-10 08:10:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-178.html
+2025-02-10 08:10:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-179.html
+2025-02-10 08:10:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-180.html
+2025-02-10 08:10:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-181.html
+2025-02-10 08:10:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-182.html
+2025-02-10 08:10:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:10:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-183.html
+2025-02-10 08:10:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-184.html
+2025-02-10 08:11:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-185.html
+2025-02-10 08:11:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-186.html
+2025-02-10 08:11:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-187.html
+2025-02-10 08:11:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-188.html
+2025-02-10 08:11:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-189.html
+2025-02-10 08:11:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:11:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-190.html
+2025-02-10 08:11:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-191.html
+2025-02-10 08:12:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-192.html
+2025-02-10 08:12:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-193.html
+2025-02-10 08:12:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-194.html
+2025-02-10 08:12:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-195.html
+2025-02-10 08:12:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-196.html
+2025-02-10 08:12:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:12:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-197.html
+2025-02-10 08:12:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-198.html
+2025-02-10 08:13:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-199.html
+2025-02-10 08:13:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-200.html
+2025-02-10 08:13:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-201.html
+2025-02-10 08:13:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-202.html
+2025-02-10 08:13:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-203.html
+2025-02-10 08:13:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:13:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-204.html
+2025-02-10 08:13:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-205.html
+2025-02-10 08:14:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-206.html
+2025-02-10 08:14:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-207.html
+2025-02-10 08:14:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-208.html
+2025-02-10 08:14:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-209.html
+2025-02-10 08:14:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-210.html
+2025-02-10 08:14:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-211.html
+2025-02-10 08:14:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:14:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-212.html
+2025-02-10 08:15:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-213.html
+2025-02-10 08:15:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-214.html
+2025-02-10 08:15:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-215.html
+2025-02-10 08:15:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-216.html
+2025-02-10 08:15:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-217.html
+2025-02-10 08:15:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-218.html
+2025-02-10 08:15:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:15:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-219.html
+2025-02-10 08:16:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-220.html
+2025-02-10 08:16:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-221.html
+2025-02-10 08:16:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-222.html
+2025-02-10 08:16:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-223.html
+2025-02-10 08:16:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-224.html
+2025-02-10 08:16:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-225.html
+2025-02-10 08:16:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:16:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-226.html
+2025-02-10 08:17:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-227.html
+2025-02-10 08:17:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-228.html
+2025-02-10 08:17:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-229.html
+2025-02-10 08:17:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-230.html
+2025-02-10 08:17:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-231.html
+2025-02-10 08:17:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-232.html
+2025-02-10 08:17:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:17:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-233.html
+2025-02-10 08:17:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-234.html
+2025-02-10 08:18:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-235.html
+2025-02-10 08:18:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-236.html
+2025-02-10 08:18:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-237.html
+2025-02-10 08:18:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-238.html
+2025-02-10 08:18:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-239.html
+2025-02-10 08:18:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:18:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-240.html
+2025-02-10 08:18:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-241.html
+2025-02-10 08:19:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-242.html
+2025-02-10 08:19:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-243.html
+2025-02-10 08:19:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-244.html
+2025-02-10 08:19:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-245.html
+2025-02-10 08:19:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-246.html
+2025-02-10 08:19:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-247.html
+2025-02-10 08:19:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:19:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-248.html
+2025-02-10 08:20:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-249.html
+2025-02-10 08:20:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-250.html
+2025-02-10 08:20:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-251.html
+2025-02-10 08:20:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-252.html
+2025-02-10 08:20:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-253.html
+2025-02-10 08:20:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-254.html
+2025-02-10 08:20:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:20:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-255.html
+2025-02-10 08:20:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-256.html
+2025-02-10 08:21:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-257.html
+2025-02-10 08:21:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-258.html
+2025-02-10 08:21:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-259.html
+2025-02-10 08:21:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-260.html
+2025-02-10 08:21:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-261.html
+2025-02-10 08:21:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:21:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-262.html
+2025-02-10 08:21:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-263.html
+2025-02-10 08:22:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-264.html
+2025-02-10 08:22:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-265.html
+2025-02-10 08:22:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-266.html
+2025-02-10 08:22:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-267.html
+2025-02-10 08:22:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-268.html
+2025-02-10 08:22:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-269.html
+2025-02-10 08:22:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:22:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-270.html
+2025-02-10 08:22:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-10 08:23:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahfood/10-Feb-2025_v1/mahfood-271.html
+2025-02-10 08:23:06 - Clicked on link [None, 'Next >', None] - Not Found
