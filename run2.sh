@@ -1,0 +1,14 @@
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahtech
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahhouse
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahit
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahmar
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahmin
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahpar
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahplan
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahpwd
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahrural
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahskill
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahsoil
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahtrib
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahwater
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahwom
