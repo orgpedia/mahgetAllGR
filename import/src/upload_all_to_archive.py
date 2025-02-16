@@ -88,7 +88,7 @@ def download_pdf(pdfs_dir, merged_info):
         d_success, d_utc_str = request_pdf(url, pdf_file)
         return (pdf_file, d_utc_str) if d_success else (None, d_utc_str)
 
-FiveAndHalfHours = 5 * 60 * 60
+FiveAndHalfHours = (5 * 60 * 60) + (30 * 60)
 def upload_internet_archive(info, pdf_path):
     md = info
     code = info["Unique Code"]
@@ -217,8 +217,7 @@ def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_jso
         
         archive_infos.append(info)
         archive_json_file.write_text(json.dumps(archive_infos))
-        break
-    
+        
         if (time.time() - start_time) > FiveAndHalfHours:
             print('Leaving as ran out of time')            
             break
