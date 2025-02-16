@@ -170,3 +170,4 @@ output/
 *~
 .DS_Store
 *.png
+logs

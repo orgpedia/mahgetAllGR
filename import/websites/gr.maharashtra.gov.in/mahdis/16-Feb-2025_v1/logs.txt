@@ -1,0 +1,26 @@
+2025-02-16 01:54:10 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 01:54:11 - Clicked on link ->None
+2025-02-16 01:54:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:54:31 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 01:54:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-0.html
+2025-02-16 01:54:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:54:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-1.html
+2025-02-16 01:54:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:54:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-2.html
+2025-02-16 01:54:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-3.html
+2025-02-16 01:55:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-4.html
+2025-02-16 01:55:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-5.html
+2025-02-16 01:55:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-6.html
+2025-02-16 01:55:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-7.html
+2025-02-16 01:55:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-8.html
+2025-02-16 01:55:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-9.html
+2025-02-16 01:55:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:55:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahdis/16-Feb-2025_v1/mahdis-10.html
+2025-02-16 01:55:58 - Clicked on link [None, 'Next >', None] - Not Found

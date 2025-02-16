@@ -1,0 +1,92 @@
+2025-02-15 23:30:59 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-15 23:31:00 - Clicked on link ->None
+2025-02-15 23:31:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:31:19 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-15 23:31:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-0.html
+2025-02-15 23:31:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:31:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-1.html
+2025-02-15 23:31:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:31:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-2.html
+2025-02-15 23:31:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:31:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-3.html
+2025-02-15 23:31:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:31:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-4.html
+2025-02-15 23:31:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-5.html
+2025-02-15 23:32:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-6.html
+2025-02-15 23:32:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-7.html
+2025-02-15 23:32:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-8.html
+2025-02-15 23:32:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-9.html
+2025-02-15 23:32:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-10.html
+2025-02-15 23:32:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:32:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-11.html
+2025-02-15 23:32:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-12.html
+2025-02-15 23:33:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-13.html
+2025-02-15 23:33:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-14.html
+2025-02-15 23:33:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-15.html
+2025-02-15 23:33:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-16.html
+2025-02-15 23:33:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-17.html
+2025-02-15 23:33:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-18.html
+2025-02-15 23:33:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:33:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-19.html
+2025-02-15 23:33:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-20.html
+2025-02-15 23:34:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-21.html
+2025-02-15 23:34:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-22.html
+2025-02-15 23:34:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-23.html
+2025-02-15 23:34:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-24.html
+2025-02-15 23:34:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-25.html
+2025-02-15 23:34:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:34:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-26.html
+2025-02-15 23:34:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-27.html
+2025-02-15 23:35:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-28.html
+2025-02-15 23:35:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-29.html
+2025-02-15 23:35:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-30.html
+2025-02-15 23:35:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-31.html
+2025-02-15 23:35:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-32.html
+2025-02-15 23:35:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-33.html
+2025-02-15 23:35:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:35:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-34.html
+2025-02-15 23:35:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-35.html
+2025-02-15 23:36:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-36.html
+2025-02-15 23:36:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-37.html
+2025-02-15 23:36:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-38.html
+2025-02-15 23:36:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-39.html
+2025-02-15 23:36:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-40.html
+2025-02-15 23:36:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-41.html
+2025-02-15 23:36:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:36:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-42.html
+2025-02-15 23:37:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:37:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahit/15-Feb-2025_v1/mahit-43.html
+2025-02-15 23:37:07 - Clicked on link [None, 'Next >', None] - Not Found

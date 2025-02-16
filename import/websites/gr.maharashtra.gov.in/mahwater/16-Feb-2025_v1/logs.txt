@@ -1,0 +1,1482 @@
+2025-02-16 05:44:31 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 05:44:32 - Clicked on link ->None
+2025-02-16 05:44:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:44:51 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 05:44:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-0.html
+2025-02-16 05:44:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-1.html
+2025-02-16 05:45:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-2.html
+2025-02-16 05:45:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-3.html
+2025-02-16 05:45:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-4.html
+2025-02-16 05:45:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-5.html
+2025-02-16 05:45:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-6.html
+2025-02-16 05:45:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:45:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-7.html
+2025-02-16 05:45:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-8.html
+2025-02-16 05:46:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-9.html
+2025-02-16 05:46:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-10.html
+2025-02-16 05:46:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-11.html
+2025-02-16 05:46:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-12.html
+2025-02-16 05:46:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-13.html
+2025-02-16 05:46:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:46:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-14.html
+2025-02-16 05:46:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-15.html
+2025-02-16 05:47:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-16.html
+2025-02-16 05:47:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-17.html
+2025-02-16 05:47:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-18.html
+2025-02-16 05:47:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-19.html
+2025-02-16 05:47:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-20.html
+2025-02-16 05:47:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-21.html
+2025-02-16 05:47:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:47:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-22.html
+2025-02-16 05:47:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-23.html
+2025-02-16 05:48:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-24.html
+2025-02-16 05:48:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-25.html
+2025-02-16 05:48:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-26.html
+2025-02-16 05:48:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-27.html
+2025-02-16 05:48:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-28.html
+2025-02-16 05:48:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:48:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-29.html
+2025-02-16 05:48:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-30.html
+2025-02-16 05:49:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-31.html
+2025-02-16 05:49:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-32.html
+2025-02-16 05:49:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-33.html
+2025-02-16 05:49:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-34.html
+2025-02-16 05:49:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-35.html
+2025-02-16 05:49:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-36.html
+2025-02-16 05:49:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:49:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-37.html
+2025-02-16 05:50:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-38.html
+2025-02-16 05:50:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-39.html
+2025-02-16 05:50:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-40.html
+2025-02-16 05:50:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-41.html
+2025-02-16 05:50:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-42.html
+2025-02-16 05:50:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-43.html
+2025-02-16 05:50:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:50:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-44.html
+2025-02-16 05:50:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-45.html
+2025-02-16 05:51:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-46.html
+2025-02-16 05:51:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-47.html
+2025-02-16 05:51:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-48.html
+2025-02-16 05:51:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-49.html
+2025-02-16 05:51:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-50.html
+2025-02-16 05:51:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:51:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-51.html
+2025-02-16 05:51:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-52.html
+2025-02-16 05:52:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-53.html
+2025-02-16 05:52:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-54.html
+2025-02-16 05:52:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-55.html
+2025-02-16 05:52:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-56.html
+2025-02-16 05:52:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-57.html
+2025-02-16 05:52:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-58.html
+2025-02-16 05:52:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:52:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-59.html
+2025-02-16 05:53:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-60.html
+2025-02-16 05:53:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-61.html
+2025-02-16 05:53:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-62.html
+2025-02-16 05:53:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-63.html
+2025-02-16 05:53:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-64.html
+2025-02-16 05:53:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-65.html
+2025-02-16 05:53:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:53:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-66.html
+2025-02-16 05:53:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-67.html
+2025-02-16 05:54:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-68.html
+2025-02-16 05:54:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-69.html
+2025-02-16 05:54:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-70.html
+2025-02-16 05:54:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-71.html
+2025-02-16 05:54:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-72.html
+2025-02-16 05:54:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:54:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-73.html
+2025-02-16 05:54:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-74.html
+2025-02-16 05:55:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-75.html
+2025-02-16 05:55:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-76.html
+2025-02-16 05:55:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-77.html
+2025-02-16 05:55:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-78.html
+2025-02-16 05:55:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-79.html
+2025-02-16 05:55:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-80.html
+2025-02-16 05:55:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:55:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-81.html
+2025-02-16 05:55:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-82.html
+2025-02-16 05:56:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-83.html
+2025-02-16 05:56:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-84.html
+2025-02-16 05:56:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-85.html
+2025-02-16 05:56:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-86.html
+2025-02-16 05:56:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-87.html
+2025-02-16 05:56:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:56:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-88.html
+2025-02-16 05:56:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-89.html
+2025-02-16 05:57:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-90.html
+2025-02-16 05:57:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-91.html
+2025-02-16 05:57:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-92.html
+2025-02-16 05:57:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-93.html
+2025-02-16 05:57:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-94.html
+2025-02-16 05:57:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:57:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-95.html
+2025-02-16 05:57:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-96.html
+2025-02-16 05:58:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-97.html
+2025-02-16 05:58:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-98.html
+2025-02-16 05:58:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-99.html
+2025-02-16 05:58:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-100.html
+2025-02-16 05:58:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-101.html
+2025-02-16 05:58:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-102.html
+2025-02-16 05:58:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:58:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-103.html
+2025-02-16 05:58:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-104.html
+2025-02-16 05:59:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-105.html
+2025-02-16 05:59:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-106.html
+2025-02-16 05:59:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-107.html
+2025-02-16 05:59:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-108.html
+2025-02-16 05:59:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-109.html
+2025-02-16 05:59:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 05:59:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-110.html
+2025-02-16 05:59:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-111.html
+2025-02-16 06:00:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-112.html
+2025-02-16 06:00:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-113.html
+2025-02-16 06:00:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-114.html
+2025-02-16 06:00:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-115.html
+2025-02-16 06:00:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-116.html
+2025-02-16 06:00:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:00:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-117.html
+2025-02-16 06:00:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:01:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-118.html
+2025-02-16 06:01:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:01:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-119.html
+2025-02-16 06:01:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:01:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-120.html
+2025-02-16 06:01:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:01:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-121.html
+2025-02-16 06:01:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:01:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-122.html
+2025-02-16 06:01:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:01:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-123.html
+2025-02-16 06:01:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-124.html
+2025-02-16 06:02:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-125.html
+2025-02-16 06:02:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-126.html
+2025-02-16 06:02:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-127.html
+2025-02-16 06:02:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-128.html
+2025-02-16 06:02:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-129.html
+2025-02-16 06:02:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-130.html
+2025-02-16 06:02:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:02:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-131.html
+2025-02-16 06:02:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-132.html
+2025-02-16 06:03:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-133.html
+2025-02-16 06:03:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-134.html
+2025-02-16 06:03:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-135.html
+2025-02-16 06:03:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-136.html
+2025-02-16 06:03:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-137.html
+2025-02-16 06:03:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:03:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-138.html
+2025-02-16 06:03:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-139.html
+2025-02-16 06:04:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-140.html
+2025-02-16 06:04:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-141.html
+2025-02-16 06:04:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-142.html
+2025-02-16 06:04:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-143.html
+2025-02-16 06:04:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-144.html
+2025-02-16 06:04:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-145.html
+2025-02-16 06:04:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:04:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-146.html
+2025-02-16 06:04:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-147.html
+2025-02-16 06:05:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-148.html
+2025-02-16 06:05:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-149.html
+2025-02-16 06:05:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-150.html
+2025-02-16 06:05:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-151.html
+2025-02-16 06:05:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-152.html
+2025-02-16 06:05:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:05:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-153.html
+2025-02-16 06:05:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-154.html
+2025-02-16 06:06:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-155.html
+2025-02-16 06:06:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-156.html
+2025-02-16 06:06:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-157.html
+2025-02-16 06:06:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-158.html
+2025-02-16 06:06:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-159.html
+2025-02-16 06:06:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:06:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-160.html
+2025-02-16 06:06:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-161.html
+2025-02-16 06:07:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-162.html
+2025-02-16 06:07:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-163.html
+2025-02-16 06:07:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-164.html
+2025-02-16 06:07:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-165.html
+2025-02-16 06:07:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-166.html
+2025-02-16 06:07:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-167.html
+2025-02-16 06:07:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:07:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-168.html
+2025-02-16 06:07:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-169.html
+2025-02-16 06:08:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-170.html
+2025-02-16 06:08:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-171.html
+2025-02-16 06:08:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-172.html
+2025-02-16 06:08:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-173.html
+2025-02-16 06:08:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-174.html
+2025-02-16 06:08:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:08:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-175.html
+2025-02-16 06:08:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-176.html
+2025-02-16 06:09:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-177.html
+2025-02-16 06:09:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-178.html
+2025-02-16 06:09:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-179.html
+2025-02-16 06:09:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-180.html
+2025-02-16 06:09:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-181.html
+2025-02-16 06:09:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:09:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-182.html
+2025-02-16 06:09:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-183.html
+2025-02-16 06:10:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-184.html
+2025-02-16 06:10:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-185.html
+2025-02-16 06:10:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-186.html
+2025-02-16 06:10:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-187.html
+2025-02-16 06:10:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-188.html
+2025-02-16 06:10:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-189.html
+2025-02-16 06:10:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:10:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-190.html
+2025-02-16 06:11:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-191.html
+2025-02-16 06:11:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-192.html
+2025-02-16 06:11:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-193.html
+2025-02-16 06:11:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-194.html
+2025-02-16 06:11:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-195.html
+2025-02-16 06:11:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-196.html
+2025-02-16 06:11:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:11:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-197.html
+2025-02-16 06:11:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-198.html
+2025-02-16 06:12:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-199.html
+2025-02-16 06:12:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-200.html
+2025-02-16 06:12:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-201.html
+2025-02-16 06:12:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-202.html
+2025-02-16 06:12:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-203.html
+2025-02-16 06:12:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:12:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-204.html
+2025-02-16 06:12:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-205.html
+2025-02-16 06:13:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-206.html
+2025-02-16 06:13:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-207.html
+2025-02-16 06:13:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-208.html
+2025-02-16 06:13:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-209.html
+2025-02-16 06:13:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-210.html
+2025-02-16 06:13:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:13:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-211.html
+2025-02-16 06:13:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-212.html
+2025-02-16 06:14:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-213.html
+2025-02-16 06:14:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-214.html
+2025-02-16 06:14:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-215.html
+2025-02-16 06:14:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-216.html
+2025-02-16 06:14:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-217.html
+2025-02-16 06:14:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-218.html
+2025-02-16 06:14:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:14:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-219.html
+2025-02-16 06:14:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-220.html
+2025-02-16 06:15:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-221.html
+2025-02-16 06:15:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-222.html
+2025-02-16 06:15:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-223.html
+2025-02-16 06:15:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-224.html
+2025-02-16 06:15:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-225.html
+2025-02-16 06:15:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:15:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-226.html
+2025-02-16 06:15:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-227.html
+2025-02-16 06:16:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-228.html
+2025-02-16 06:16:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-229.html
+2025-02-16 06:16:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-230.html
+2025-02-16 06:16:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-231.html
+2025-02-16 06:16:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-232.html
+2025-02-16 06:16:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:16:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-233.html
+2025-02-16 06:16:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-234.html
+2025-02-16 06:17:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-235.html
+2025-02-16 06:17:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-236.html
+2025-02-16 06:17:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-237.html
+2025-02-16 06:17:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-238.html
+2025-02-16 06:17:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-239.html
+2025-02-16 06:17:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-240.html
+2025-02-16 06:17:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:17:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-241.html
+2025-02-16 06:17:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-242.html
+2025-02-16 06:18:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-243.html
+2025-02-16 06:18:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-244.html
+2025-02-16 06:18:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-245.html
+2025-02-16 06:18:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-246.html
+2025-02-16 06:18:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-247.html
+2025-02-16 06:18:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:18:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-248.html
+2025-02-16 06:18:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-249.html
+2025-02-16 06:19:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-250.html
+2025-02-16 06:19:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-251.html
+2025-02-16 06:19:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-252.html
+2025-02-16 06:19:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-253.html
+2025-02-16 06:19:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-254.html
+2025-02-16 06:19:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-255.html
+2025-02-16 06:19:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:19:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-256.html
+2025-02-16 06:20:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-257.html
+2025-02-16 06:20:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-258.html
+2025-02-16 06:20:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-259.html
+2025-02-16 06:20:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-260.html
+2025-02-16 06:20:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-261.html
+2025-02-16 06:20:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-262.html
+2025-02-16 06:20:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:20:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-263.html
+2025-02-16 06:20:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-264.html
+2025-02-16 06:21:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-265.html
+2025-02-16 06:21:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-266.html
+2025-02-16 06:21:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-267.html
+2025-02-16 06:21:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-268.html
+2025-02-16 06:21:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-269.html
+2025-02-16 06:21:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:21:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-270.html
+2025-02-16 06:21:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-271.html
+2025-02-16 06:22:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-272.html
+2025-02-16 06:22:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-273.html
+2025-02-16 06:22:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-274.html
+2025-02-16 06:22:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-275.html
+2025-02-16 06:22:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-276.html
+2025-02-16 06:22:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-277.html
+2025-02-16 06:22:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:22:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-278.html
+2025-02-16 06:23:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-279.html
+2025-02-16 06:23:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-280.html
+2025-02-16 06:23:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-281.html
+2025-02-16 06:23:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-282.html
+2025-02-16 06:23:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-283.html
+2025-02-16 06:23:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-284.html
+2025-02-16 06:23:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:23:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-285.html
+2025-02-16 06:23:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-286.html
+2025-02-16 06:24:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-287.html
+2025-02-16 06:24:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-288.html
+2025-02-16 06:24:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-289.html
+2025-02-16 06:24:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-290.html
+2025-02-16 06:24:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-291.html
+2025-02-16 06:24:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:24:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-292.html
+2025-02-16 06:24:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-293.html
+2025-02-16 06:25:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-294.html
+2025-02-16 06:25:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-295.html
+2025-02-16 06:25:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-296.html
+2025-02-16 06:25:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-297.html
+2025-02-16 06:25:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-298.html
+2025-02-16 06:25:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-299.html
+2025-02-16 06:25:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:25:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-300.html
+2025-02-16 06:26:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-301.html
+2025-02-16 06:26:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-302.html
+2025-02-16 06:26:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-303.html
+2025-02-16 06:26:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-304.html
+2025-02-16 06:26:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-305.html
+2025-02-16 06:26:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-306.html
+2025-02-16 06:26:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:26:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-307.html
+2025-02-16 06:26:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-308.html
+2025-02-16 06:27:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-309.html
+2025-02-16 06:27:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-310.html
+2025-02-16 06:27:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-311.html
+2025-02-16 06:27:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-312.html
+2025-02-16 06:27:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-313.html
+2025-02-16 06:27:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:27:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-314.html
+2025-02-16 06:27:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-315.html
+2025-02-16 06:28:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-316.html
+2025-02-16 06:28:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-317.html
+2025-02-16 06:28:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-318.html
+2025-02-16 06:28:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-319.html
+2025-02-16 06:28:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-320.html
+2025-02-16 06:28:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-321.html
+2025-02-16 06:28:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:28:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-322.html
+2025-02-16 06:29:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-323.html
+2025-02-16 06:29:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-324.html
+2025-02-16 06:29:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-325.html
+2025-02-16 06:29:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-326.html
+2025-02-16 06:29:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-327.html
+2025-02-16 06:29:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-328.html
+2025-02-16 06:29:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:29:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-329.html
+2025-02-16 06:29:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-330.html
+2025-02-16 06:30:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-331.html
+2025-02-16 06:30:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-332.html
+2025-02-16 06:30:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-333.html
+2025-02-16 06:30:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-334.html
+2025-02-16 06:30:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-335.html
+2025-02-16 06:30:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:30:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-336.html
+2025-02-16 06:30:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-337.html
+2025-02-16 06:31:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-338.html
+2025-02-16 06:31:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-339.html
+2025-02-16 06:31:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-340.html
+2025-02-16 06:31:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-341.html
+2025-02-16 06:31:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-342.html
+2025-02-16 06:31:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:31:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-343.html
+2025-02-16 06:31:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-344.html
+2025-02-16 06:32:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-345.html
+2025-02-16 06:32:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-346.html
+2025-02-16 06:32:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-347.html
+2025-02-16 06:32:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-348.html
+2025-02-16 06:32:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-349.html
+2025-02-16 06:32:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-350.html
+2025-02-16 06:32:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:32:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-351.html
+2025-02-16 06:32:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-352.html
+2025-02-16 06:33:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-353.html
+2025-02-16 06:33:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-354.html
+2025-02-16 06:33:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-355.html
+2025-02-16 06:33:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-356.html
+2025-02-16 06:33:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-357.html
+2025-02-16 06:33:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:33:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-358.html
+2025-02-16 06:33:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-359.html
+2025-02-16 06:34:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-360.html
+2025-02-16 06:34:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-361.html
+2025-02-16 06:34:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-362.html
+2025-02-16 06:34:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-363.html
+2025-02-16 06:34:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-364.html
+2025-02-16 06:34:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:34:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-365.html
+2025-02-16 06:34:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-366.html
+2025-02-16 06:35:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-367.html
+2025-02-16 06:35:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-368.html
+2025-02-16 06:35:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-369.html
+2025-02-16 06:35:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-370.html
+2025-02-16 06:35:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-371.html
+2025-02-16 06:35:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-372.html
+2025-02-16 06:35:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:35:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-373.html
+2025-02-16 06:36:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-374.html
+2025-02-16 06:36:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-375.html
+2025-02-16 06:36:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-376.html
+2025-02-16 06:36:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-377.html
+2025-02-16 06:36:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-378.html
+2025-02-16 06:36:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-379.html
+2025-02-16 06:36:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:36:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-380.html
+2025-02-16 06:36:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-381.html
+2025-02-16 06:37:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-382.html
+2025-02-16 06:37:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-383.html
+2025-02-16 06:37:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-384.html
+2025-02-16 06:37:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-385.html
+2025-02-16 06:37:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-386.html
+2025-02-16 06:37:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:37:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-387.html
+2025-02-16 06:37:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-388.html
+2025-02-16 06:38:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-389.html
+2025-02-16 06:38:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-390.html
+2025-02-16 06:38:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-391.html
+2025-02-16 06:38:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-392.html
+2025-02-16 06:38:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-393.html
+2025-02-16 06:38:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-394.html
+2025-02-16 06:38:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:38:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-395.html
+2025-02-16 06:38:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-396.html
+2025-02-16 06:39:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-397.html
+2025-02-16 06:39:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-398.html
+2025-02-16 06:39:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-399.html
+2025-02-16 06:39:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-400.html
+2025-02-16 06:39:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-401.html
+2025-02-16 06:39:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:39:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-402.html
+2025-02-16 06:39:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-403.html
+2025-02-16 06:40:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-404.html
+2025-02-16 06:40:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-405.html
+2025-02-16 06:40:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-406.html
+2025-02-16 06:40:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-407.html
+2025-02-16 06:40:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-408.html
+2025-02-16 06:40:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-409.html
+2025-02-16 06:40:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:40:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-410.html
+2025-02-16 06:41:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-411.html
+2025-02-16 06:41:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-412.html
+2025-02-16 06:41:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-413.html
+2025-02-16 06:41:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-414.html
+2025-02-16 06:41:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-415.html
+2025-02-16 06:41:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-416.html
+2025-02-16 06:41:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:41:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-417.html
+2025-02-16 06:41:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-418.html
+2025-02-16 06:42:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-419.html
+2025-02-16 06:42:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-420.html
+2025-02-16 06:42:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-421.html
+2025-02-16 06:42:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-422.html
+2025-02-16 06:42:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-423.html
+2025-02-16 06:42:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:42:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-424.html
+2025-02-16 06:42:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-425.html
+2025-02-16 06:43:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-426.html
+2025-02-16 06:43:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-427.html
+2025-02-16 06:43:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-428.html
+2025-02-16 06:43:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-429.html
+2025-02-16 06:43:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-430.html
+2025-02-16 06:43:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:43:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-431.html
+2025-02-16 06:43:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-432.html
+2025-02-16 06:44:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-433.html
+2025-02-16 06:44:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-434.html
+2025-02-16 06:44:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-435.html
+2025-02-16 06:44:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-436.html
+2025-02-16 06:44:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-437.html
+2025-02-16 06:44:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:44:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-438.html
+2025-02-16 06:44:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-439.html
+2025-02-16 06:45:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-440.html
+2025-02-16 06:45:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-441.html
+2025-02-16 06:45:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-442.html
+2025-02-16 06:45:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-443.html
+2025-02-16 06:45:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-444.html
+2025-02-16 06:45:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-445.html
+2025-02-16 06:45:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:45:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-446.html
+2025-02-16 06:45:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-447.html
+2025-02-16 06:46:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-448.html
+2025-02-16 06:46:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-449.html
+2025-02-16 06:46:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-450.html
+2025-02-16 06:46:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-451.html
+2025-02-16 06:46:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-452.html
+2025-02-16 06:46:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:46:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-453.html
+2025-02-16 06:46:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-454.html
+2025-02-16 06:47:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-455.html
+2025-02-16 06:47:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-456.html
+2025-02-16 06:47:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-457.html
+2025-02-16 06:47:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-458.html
+2025-02-16 06:47:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-459.html
+2025-02-16 06:47:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:47:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-460.html
+2025-02-16 06:47:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-461.html
+2025-02-16 06:48:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-462.html
+2025-02-16 06:48:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-463.html
+2025-02-16 06:48:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-464.html
+2025-02-16 06:48:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-465.html
+2025-02-16 06:48:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-466.html
+2025-02-16 06:48:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-467.html
+2025-02-16 06:48:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:48:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-468.html
+2025-02-16 06:49:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-469.html
+2025-02-16 06:49:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-470.html
+2025-02-16 06:49:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-471.html
+2025-02-16 06:49:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-472.html
+2025-02-16 06:49:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-473.html
+2025-02-16 06:49:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-474.html
+2025-02-16 06:49:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:49:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-475.html
+2025-02-16 06:49:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-476.html
+2025-02-16 06:50:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-477.html
+2025-02-16 06:50:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-478.html
+2025-02-16 06:50:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-479.html
+2025-02-16 06:50:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-480.html
+2025-02-16 06:50:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-481.html
+2025-02-16 06:50:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:50:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-482.html
+2025-02-16 06:50:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-483.html
+2025-02-16 06:51:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-484.html
+2025-02-16 06:51:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-485.html
+2025-02-16 06:51:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-486.html
+2025-02-16 06:51:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-487.html
+2025-02-16 06:51:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-488.html
+2025-02-16 06:51:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-489.html
+2025-02-16 06:51:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:51:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-490.html
+2025-02-16 06:51:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-491.html
+2025-02-16 06:52:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-492.html
+2025-02-16 06:52:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-493.html
+2025-02-16 06:52:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-494.html
+2025-02-16 06:52:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-495.html
+2025-02-16 06:52:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-496.html
+2025-02-16 06:52:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:52:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-497.html
+2025-02-16 06:52:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-498.html
+2025-02-16 06:53:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-499.html
+2025-02-16 06:53:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-500.html
+2025-02-16 06:53:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-501.html
+2025-02-16 06:53:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-502.html
+2025-02-16 06:53:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-503.html
+2025-02-16 06:53:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:53:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-504.html
+2025-02-16 06:53:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-505.html
+2025-02-16 06:54:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-506.html
+2025-02-16 06:54:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-507.html
+2025-02-16 06:54:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-508.html
+2025-02-16 06:54:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-509.html
+2025-02-16 06:54:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-510.html
+2025-02-16 06:54:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:54:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-511.html
+2025-02-16 06:54:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-512.html
+2025-02-16 06:55:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-513.html
+2025-02-16 06:55:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-514.html
+2025-02-16 06:55:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-515.html
+2025-02-16 06:55:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-516.html
+2025-02-16 06:55:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-517.html
+2025-02-16 06:55:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-518.html
+2025-02-16 06:55:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:55:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-519.html
+2025-02-16 06:56:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-520.html
+2025-02-16 06:56:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-521.html
+2025-02-16 06:56:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-522.html
+2025-02-16 06:56:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-523.html
+2025-02-16 06:56:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-524.html
+2025-02-16 06:56:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-525.html
+2025-02-16 06:56:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:56:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-526.html
+2025-02-16 06:56:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-527.html
+2025-02-16 06:57:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-528.html
+2025-02-16 06:57:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-529.html
+2025-02-16 06:57:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-530.html
+2025-02-16 06:57:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-531.html
+2025-02-16 06:57:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-532.html
+2025-02-16 06:57:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:57:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-533.html
+2025-02-16 06:57:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-534.html
+2025-02-16 06:58:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-535.html
+2025-02-16 06:58:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-536.html
+2025-02-16 06:58:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-537.html
+2025-02-16 06:58:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-538.html
+2025-02-16 06:58:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-539.html
+2025-02-16 06:58:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:58:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-540.html
+2025-02-16 06:58:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-541.html
+2025-02-16 06:59:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-542.html
+2025-02-16 06:59:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-543.html
+2025-02-16 06:59:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-544.html
+2025-02-16 06:59:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-545.html
+2025-02-16 06:59:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-546.html
+2025-02-16 06:59:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-547.html
+2025-02-16 06:59:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 06:59:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-548.html
+2025-02-16 06:59:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-549.html
+2025-02-16 07:00:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-550.html
+2025-02-16 07:00:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-551.html
+2025-02-16 07:00:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-552.html
+2025-02-16 07:00:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-553.html
+2025-02-16 07:00:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-554.html
+2025-02-16 07:00:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:00:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-555.html
+2025-02-16 07:00:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-556.html
+2025-02-16 07:01:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-557.html
+2025-02-16 07:01:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-558.html
+2025-02-16 07:01:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-559.html
+2025-02-16 07:01:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-560.html
+2025-02-16 07:01:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-561.html
+2025-02-16 07:01:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-562.html
+2025-02-16 07:01:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:01:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-563.html
+2025-02-16 07:01:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-564.html
+2025-02-16 07:02:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-565.html
+2025-02-16 07:02:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-566.html
+2025-02-16 07:02:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-567.html
+2025-02-16 07:02:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-568.html
+2025-02-16 07:02:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-569.html
+2025-02-16 07:02:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:02:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-570.html
+2025-02-16 07:02:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-571.html
+2025-02-16 07:03:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-572.html
+2025-02-16 07:03:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-573.html
+2025-02-16 07:03:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-574.html
+2025-02-16 07:03:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-575.html
+2025-02-16 07:03:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-576.html
+2025-02-16 07:03:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:03:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-577.html
+2025-02-16 07:03:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-578.html
+2025-02-16 07:04:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-579.html
+2025-02-16 07:04:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-580.html
+2025-02-16 07:04:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-581.html
+2025-02-16 07:04:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-582.html
+2025-02-16 07:04:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-583.html
+2025-02-16 07:04:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:04:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-584.html
+2025-02-16 07:04:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-585.html
+2025-02-16 07:05:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-586.html
+2025-02-16 07:05:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-587.html
+2025-02-16 07:05:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-588.html
+2025-02-16 07:05:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-589.html
+2025-02-16 07:05:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-590.html
+2025-02-16 07:05:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-591.html
+2025-02-16 07:05:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:05:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-592.html
+2025-02-16 07:05:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-593.html
+2025-02-16 07:06:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-594.html
+2025-02-16 07:06:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-595.html
+2025-02-16 07:06:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-596.html
+2025-02-16 07:06:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-597.html
+2025-02-16 07:06:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-598.html
+2025-02-16 07:06:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:06:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-599.html
+2025-02-16 07:06:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-600.html
+2025-02-16 07:07:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-601.html
+2025-02-16 07:07:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-602.html
+2025-02-16 07:07:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-603.html
+2025-02-16 07:07:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-604.html
+2025-02-16 07:07:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-605.html
+2025-02-16 07:07:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:07:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-606.html
+2025-02-16 07:07:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-607.html
+2025-02-16 07:08:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-608.html
+2025-02-16 07:08:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-609.html
+2025-02-16 07:08:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-610.html
+2025-02-16 07:08:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-611.html
+2025-02-16 07:08:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-612.html
+2025-02-16 07:08:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:08:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-613.html
+2025-02-16 07:08:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-614.html
+2025-02-16 07:09:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-615.html
+2025-02-16 07:09:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-616.html
+2025-02-16 07:09:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-617.html
+2025-02-16 07:09:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-618.html
+2025-02-16 07:09:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-619.html
+2025-02-16 07:09:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-620.html
+2025-02-16 07:09:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:09:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-621.html
+2025-02-16 07:10:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-622.html
+2025-02-16 07:10:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-623.html
+2025-02-16 07:10:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-624.html
+2025-02-16 07:10:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-625.html
+2025-02-16 07:10:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-626.html
+2025-02-16 07:10:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-627.html
+2025-02-16 07:10:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:10:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-628.html
+2025-02-16 07:10:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-629.html
+2025-02-16 07:11:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-630.html
+2025-02-16 07:11:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-631.html
+2025-02-16 07:11:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-632.html
+2025-02-16 07:11:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-633.html
+2025-02-16 07:11:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-634.html
+2025-02-16 07:11:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:11:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-635.html
+2025-02-16 07:11:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-636.html
+2025-02-16 07:12:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-637.html
+2025-02-16 07:12:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-638.html
+2025-02-16 07:12:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-639.html
+2025-02-16 07:12:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-640.html
+2025-02-16 07:12:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-641.html
+2025-02-16 07:12:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:12:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-642.html
+2025-02-16 07:12:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-643.html
+2025-02-16 07:13:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-644.html
+2025-02-16 07:13:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-645.html
+2025-02-16 07:13:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-646.html
+2025-02-16 07:13:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-647.html
+2025-02-16 07:13:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-648.html
+2025-02-16 07:13:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-649.html
+2025-02-16 07:13:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:13:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-650.html
+2025-02-16 07:13:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-651.html
+2025-02-16 07:14:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-652.html
+2025-02-16 07:14:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-653.html
+2025-02-16 07:14:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-654.html
+2025-02-16 07:14:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-655.html
+2025-02-16 07:14:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-656.html
+2025-02-16 07:14:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:14:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-657.html
+2025-02-16 07:14:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-658.html
+2025-02-16 07:15:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-659.html
+2025-02-16 07:15:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-660.html
+2025-02-16 07:15:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-661.html
+2025-02-16 07:15:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-662.html
+2025-02-16 07:15:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-663.html
+2025-02-16 07:15:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:15:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-664.html
+2025-02-16 07:15:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-665.html
+2025-02-16 07:16:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-666.html
+2025-02-16 07:16:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-667.html
+2025-02-16 07:16:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-668.html
+2025-02-16 07:16:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-669.html
+2025-02-16 07:16:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-670.html
+2025-02-16 07:16:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-671.html
+2025-02-16 07:16:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:16:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-672.html
+2025-02-16 07:17:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-673.html
+2025-02-16 07:17:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-674.html
+2025-02-16 07:17:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-675.html
+2025-02-16 07:17:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-676.html
+2025-02-16 07:17:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-677.html
+2025-02-16 07:17:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-678.html
+2025-02-16 07:17:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:17:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-679.html
+2025-02-16 07:17:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-680.html
+2025-02-16 07:18:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-681.html
+2025-02-16 07:18:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-682.html
+2025-02-16 07:18:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-683.html
+2025-02-16 07:18:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-684.html
+2025-02-16 07:18:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-685.html
+2025-02-16 07:18:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:18:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-686.html
+2025-02-16 07:18:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-687.html
+2025-02-16 07:19:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-688.html
+2025-02-16 07:19:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-689.html
+2025-02-16 07:19:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-690.html
+2025-02-16 07:19:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-691.html
+2025-02-16 07:19:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-692.html
+2025-02-16 07:19:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:19:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-693.html
+2025-02-16 07:19:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-694.html
+2025-02-16 07:20:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-695.html
+2025-02-16 07:20:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-696.html
+2025-02-16 07:20:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-697.html
+2025-02-16 07:20:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-698.html
+2025-02-16 07:20:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-699.html
+2025-02-16 07:20:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-700.html
+2025-02-16 07:20:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:20:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-701.html
+2025-02-16 07:20:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-702.html
+2025-02-16 07:21:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-703.html
+2025-02-16 07:21:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-704.html
+2025-02-16 07:21:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-705.html
+2025-02-16 07:21:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-706.html
+2025-02-16 07:21:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-707.html
+2025-02-16 07:21:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:21:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-708.html
+2025-02-16 07:21:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-709.html
+2025-02-16 07:22:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-710.html
+2025-02-16 07:22:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-711.html
+2025-02-16 07:22:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-712.html
+2025-02-16 07:22:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-713.html
+2025-02-16 07:22:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-714.html
+2025-02-16 07:22:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:22:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-715.html
+2025-02-16 07:22:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-716.html
+2025-02-16 07:23:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-717.html
+2025-02-16 07:23:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-718.html
+2025-02-16 07:23:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-719.html
+2025-02-16 07:23:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-720.html
+2025-02-16 07:23:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-721.html
+2025-02-16 07:23:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-722.html
+2025-02-16 07:23:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:23:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-723.html
+2025-02-16 07:24:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-724.html
+2025-02-16 07:24:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-725.html
+2025-02-16 07:24:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-726.html
+2025-02-16 07:24:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-727.html
+2025-02-16 07:24:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-728.html
+2025-02-16 07:24:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-729.html
+2025-02-16 07:24:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:24:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-730.html
+2025-02-16 07:24:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-731.html
+2025-02-16 07:25:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-732.html
+2025-02-16 07:25:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-733.html
+2025-02-16 07:25:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-734.html
+2025-02-16 07:25:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-735.html
+2025-02-16 07:25:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-736.html
+2025-02-16 07:25:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:25:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-737.html
+2025-02-16 07:25:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:26:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwater/16-Feb-2025_v1/mahwater-738.html
+2025-02-16 07:26:02 - Clicked on link [None, 'Next >', None] - Not Found

@@ -1,0 +1,374 @@
+2025-02-15 23:46:50 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-15 23:46:51 - Clicked on link ->None
+2025-02-15 23:47:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:10 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-15 23:47:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-0.html
+2025-02-15 23:47:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-1.html
+2025-02-15 23:47:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-2.html
+2025-02-15 23:47:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-3.html
+2025-02-15 23:47:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-4.html
+2025-02-15 23:47:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-5.html
+2025-02-15 23:47:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-6.html
+2025-02-15 23:48:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-7.html
+2025-02-15 23:48:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-8.html
+2025-02-15 23:48:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-9.html
+2025-02-15 23:48:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-10.html
+2025-02-15 23:48:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-11.html
+2025-02-15 23:48:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-12.html
+2025-02-15 23:48:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-13.html
+2025-02-15 23:49:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-14.html
+2025-02-15 23:49:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-15.html
+2025-02-15 23:49:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-16.html
+2025-02-15 23:49:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-17.html
+2025-02-15 23:49:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-18.html
+2025-02-15 23:49:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-19.html
+2025-02-15 23:49:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-20.html
+2025-02-15 23:49:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-21.html
+2025-02-15 23:50:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-22.html
+2025-02-15 23:50:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-23.html
+2025-02-15 23:50:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-24.html
+2025-02-15 23:50:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-25.html
+2025-02-15 23:50:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-26.html
+2025-02-15 23:50:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-27.html
+2025-02-15 23:50:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-28.html
+2025-02-15 23:50:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-29.html
+2025-02-15 23:51:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-30.html
+2025-02-15 23:51:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-31.html
+2025-02-15 23:51:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-32.html
+2025-02-15 23:51:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-33.html
+2025-02-15 23:51:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-34.html
+2025-02-15 23:51:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-35.html
+2025-02-15 23:51:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-36.html
+2025-02-15 23:52:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-37.html
+2025-02-15 23:52:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-38.html
+2025-02-15 23:52:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-39.html
+2025-02-15 23:52:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-40.html
+2025-02-15 23:52:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-41.html
+2025-02-15 23:52:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-42.html
+2025-02-15 23:52:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-43.html
+2025-02-15 23:52:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-44.html
+2025-02-15 23:53:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-45.html
+2025-02-15 23:53:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-46.html
+2025-02-15 23:53:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-47.html
+2025-02-15 23:53:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-48.html
+2025-02-15 23:53:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-49.html
+2025-02-15 23:53:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-50.html
+2025-02-15 23:53:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-51.html
+2025-02-15 23:54:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-52.html
+2025-02-15 23:54:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-53.html
+2025-02-15 23:54:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-54.html
+2025-02-15 23:54:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-55.html
+2025-02-15 23:54:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-56.html
+2025-02-15 23:54:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-57.html
+2025-02-15 23:54:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-58.html
+2025-02-15 23:54:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-59.html
+2025-02-15 23:55:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-60.html
+2025-02-15 23:55:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-61.html
+2025-02-15 23:55:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-62.html
+2025-02-15 23:55:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-63.html
+2025-02-15 23:55:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-64.html
+2025-02-15 23:55:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-65.html
+2025-02-15 23:55:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-66.html
+2025-02-15 23:56:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-67.html
+2025-02-15 23:56:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-68.html
+2025-02-15 23:56:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-69.html
+2025-02-15 23:56:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-70.html
+2025-02-15 23:56:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-71.html
+2025-02-15 23:56:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-72.html
+2025-02-15 23:56:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-73.html
+2025-02-15 23:56:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-74.html
+2025-02-15 23:57:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-75.html
+2025-02-15 23:57:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-76.html
+2025-02-15 23:57:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-77.html
+2025-02-15 23:57:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-78.html
+2025-02-15 23:57:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-79.html
+2025-02-15 23:57:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-80.html
+2025-02-15 23:57:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-81.html
+2025-02-15 23:58:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-82.html
+2025-02-15 23:58:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-83.html
+2025-02-15 23:58:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-84.html
+2025-02-15 23:58:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-85.html
+2025-02-15 23:58:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-86.html
+2025-02-15 23:58:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-87.html
+2025-02-15 23:58:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-88.html
+2025-02-15 23:58:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-89.html
+2025-02-15 23:59:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-90.html
+2025-02-15 23:59:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-91.html
+2025-02-15 23:59:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-92.html
+2025-02-15 23:59:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-93.html
+2025-02-15 23:59:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-94.html
+2025-02-15 23:59:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-95.html
+2025-02-15 23:59:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-96.html
+2025-02-16 00:00:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-97.html
+2025-02-16 00:00:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-98.html
+2025-02-16 00:00:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-99.html
+2025-02-16 00:00:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-100.html
+2025-02-16 00:00:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-101.html
+2025-02-16 00:00:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-102.html
+2025-02-16 00:00:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-103.html
+2025-02-16 00:00:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-104.html
+2025-02-16 00:01:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-105.html
+2025-02-16 00:01:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-106.html
+2025-02-16 00:01:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-107.html
+2025-02-16 00:01:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-108.html
+2025-02-16 00:01:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-109.html
+2025-02-16 00:01:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-110.html
+2025-02-16 00:01:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-111.html
+2025-02-16 00:01:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-112.html
+2025-02-16 00:02:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-113.html
+2025-02-16 00:02:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-114.html
+2025-02-16 00:02:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-115.html
+2025-02-16 00:02:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-116.html
+2025-02-16 00:02:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-117.html
+2025-02-16 00:02:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-118.html
+2025-02-16 00:02:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-119.html
+2025-02-16 00:03:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-120.html
+2025-02-16 00:03:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-121.html
+2025-02-16 00:03:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-122.html
+2025-02-16 00:03:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-123.html
+2025-02-16 00:03:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-124.html
+2025-02-16 00:03:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-125.html
+2025-02-16 00:03:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-126.html
+2025-02-16 00:03:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-127.html
+2025-02-16 00:04:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-128.html
+2025-02-16 00:04:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-129.html
+2025-02-16 00:04:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-130.html
+2025-02-16 00:04:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-131.html
+2025-02-16 00:04:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-132.html
+2025-02-16 00:04:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-133.html
+2025-02-16 00:04:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-134.html
+2025-02-16 00:05:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-135.html
+2025-02-16 00:05:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-136.html
+2025-02-16 00:05:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-137.html
+2025-02-16 00:05:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-138.html
+2025-02-16 00:05:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-139.html
+2025-02-16 00:05:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-140.html
+2025-02-16 00:05:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-141.html
+2025-02-16 00:05:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-142.html
+2025-02-16 00:06:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-143.html
+2025-02-16 00:06:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-144.html
+2025-02-16 00:06:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-145.html
+2025-02-16 00:06:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-146.html
+2025-02-16 00:06:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-147.html
+2025-02-16 00:06:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-148.html
+2025-02-16 00:06:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-149.html
+2025-02-16 00:07:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-150.html
+2025-02-16 00:07:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-151.html
+2025-02-16 00:07:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-152.html
+2025-02-16 00:07:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-153.html
+2025-02-16 00:07:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-154.html
+2025-02-16 00:07:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-155.html
+2025-02-16 00:07:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-156.html
+2025-02-16 00:08:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-157.html
+2025-02-16 00:08:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-158.html
+2025-02-16 00:08:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-159.html
+2025-02-16 00:08:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-160.html
+2025-02-16 00:08:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-161.html
+2025-02-16 00:08:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-162.html
+2025-02-16 00:08:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-163.html
+2025-02-16 00:08:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-164.html
+2025-02-16 00:09:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-165.html
+2025-02-16 00:09:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-166.html
+2025-02-16 00:09:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-167.html
+2025-02-16 00:09:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-168.html
+2025-02-16 00:09:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-169.html
+2025-02-16 00:09:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-170.html
+2025-02-16 00:09:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-171.html
+2025-02-16 00:10:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-172.html
+2025-02-16 00:10:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-173.html
+2025-02-16 00:10:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-174.html
+2025-02-16 00:10:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-175.html
+2025-02-16 00:10:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-176.html
+2025-02-16 00:10:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-177.html
+2025-02-16 00:10:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-178.html
+2025-02-16 00:10:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-179.html
+2025-02-16 00:11:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-180.html
+2025-02-16 00:11:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-181.html
+2025-02-16 00:11:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-182.html
+2025-02-16 00:11:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-183.html
+2025-02-16 00:11:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahmin/15-Feb-2025_v1/mahmin-184.html
+2025-02-16 00:11:45 - Clicked on link [None, 'Next >', None] - Not Found

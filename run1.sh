@@ -1,10 +1,9 @@
-uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahadmin
-uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahhome
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahind
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahlaw
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahmed
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahbah
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahdis
+uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahhome
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahhea
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahrev
 uv run python import/src/fetch_dept_all_site.py import/websites/gr.maharashtra.gov.in mahedu

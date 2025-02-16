@@ -1,0 +1,53 @@
+2025-02-16 01:31:58 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 01:31:59 - Clicked on link ->None
+2025-02-16 01:32:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:32:19 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 01:32:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-0.html
+2025-02-16 01:32:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:32:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-1.html
+2025-02-16 01:32:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:32:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-2.html
+2025-02-16 01:32:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:32:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-3.html
+2025-02-16 01:32:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:32:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-4.html
+2025-02-16 01:32:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-5.html
+2025-02-16 01:33:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-6.html
+2025-02-16 01:33:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-7.html
+2025-02-16 01:33:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-8.html
+2025-02-16 01:33:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-9.html
+2025-02-16 01:33:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-10.html
+2025-02-16 01:33:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:33:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-11.html
+2025-02-16 01:33:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-12.html
+2025-02-16 01:34:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-13.html
+2025-02-16 01:34:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-14.html
+2025-02-16 01:34:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-15.html
+2025-02-16 01:34:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-16.html
+2025-02-16 01:34:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-17.html
+2025-02-16 01:34:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-18.html
+2025-02-16 01:34:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:34:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-19.html
+2025-02-16 01:34:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:35:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-20.html
+2025-02-16 01:35:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:35:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-21.html
+2025-02-16 01:35:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:35:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-22.html
+2025-02-16 01:35:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:35:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-23.html
+2025-02-16 01:35:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 01:35:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahmed/16-Feb-2025_v1/mahmed-24.html

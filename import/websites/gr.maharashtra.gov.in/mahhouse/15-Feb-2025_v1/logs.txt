@@ -1,0 +1,168 @@
+2025-02-15 23:19:44 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-15 23:19:45 - Clicked on link ->None
+2025-02-15 23:19:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:04 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-15 23:20:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-0.html
+2025-02-15 23:20:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-1.html
+2025-02-15 23:20:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-2.html
+2025-02-15 23:20:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-3.html
+2025-02-15 23:20:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-4.html
+2025-02-15 23:20:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-5.html
+2025-02-15 23:20:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:20:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-6.html
+2025-02-15 23:20:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-7.html
+2025-02-15 23:21:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-8.html
+2025-02-15 23:21:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-9.html
+2025-02-15 23:21:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-10.html
+2025-02-15 23:21:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-11.html
+2025-02-15 23:21:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-12.html
+2025-02-15 23:21:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:21:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-13.html
+2025-02-15 23:21:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-14.html
+2025-02-15 23:22:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-15.html
+2025-02-15 23:22:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-16.html
+2025-02-15 23:22:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-17.html
+2025-02-15 23:22:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-18.html
+2025-02-15 23:22:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-19.html
+2025-02-15 23:22:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-20.html
+2025-02-15 23:22:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:22:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-21.html
+2025-02-15 23:23:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-22.html
+2025-02-15 23:23:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-23.html
+2025-02-15 23:23:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-24.html
+2025-02-15 23:23:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-25.html
+2025-02-15 23:23:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-26.html
+2025-02-15 23:23:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-27.html
+2025-02-15 23:23:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:23:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-28.html
+2025-02-15 23:23:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-29.html
+2025-02-15 23:24:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-30.html
+2025-02-15 23:24:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-31.html
+2025-02-15 23:24:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-32.html
+2025-02-15 23:24:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-33.html
+2025-02-15 23:24:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-34.html
+2025-02-15 23:24:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-35.html
+2025-02-15 23:24:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:24:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-36.html
+2025-02-15 23:25:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-37.html
+2025-02-15 23:25:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-38.html
+2025-02-15 23:25:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-39.html
+2025-02-15 23:25:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-40.html
+2025-02-15 23:25:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-41.html
+2025-02-15 23:25:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-42.html
+2025-02-15 23:25:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:25:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-43.html
+2025-02-15 23:25:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-44.html
+2025-02-15 23:26:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-45.html
+2025-02-15 23:26:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-46.html
+2025-02-15 23:26:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-47.html
+2025-02-15 23:26:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-48.html
+2025-02-15 23:26:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-49.html
+2025-02-15 23:26:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-50.html
+2025-02-15 23:26:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:26:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-51.html
+2025-02-15 23:27:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-52.html
+2025-02-15 23:27:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-53.html
+2025-02-15 23:27:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-54.html
+2025-02-15 23:27:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-55.html
+2025-02-15 23:27:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-56.html
+2025-02-15 23:27:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-57.html
+2025-02-15 23:27:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:27:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-58.html
+2025-02-15 23:27:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-59.html
+2025-02-15 23:28:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-60.html
+2025-02-15 23:28:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-61.html
+2025-02-15 23:28:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-62.html
+2025-02-15 23:28:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-63.html
+2025-02-15 23:28:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-64.html
+2025-02-15 23:28:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-65.html
+2025-02-15 23:28:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:28:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-66.html
+2025-02-15 23:28:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-67.html
+2025-02-15 23:29:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-68.html
+2025-02-15 23:29:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-69.html
+2025-02-15 23:29:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-70.html
+2025-02-15 23:29:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-71.html
+2025-02-15 23:29:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-72.html
+2025-02-15 23:29:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:29:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-73.html
+2025-02-15 23:29:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-74.html
+2025-02-15 23:30:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-75.html
+2025-02-15 23:30:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-76.html
+2025-02-15 23:30:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-77.html
+2025-02-15 23:30:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-78.html
+2025-02-15 23:30:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-79.html
+2025-02-15 23:30:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-80.html
+2025-02-15 23:30:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:30:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahhouse/15-Feb-2025_v1/mahhouse-81.html
+2025-02-15 23:30:57 - Clicked on link [None, 'Next >', None] - Not Found

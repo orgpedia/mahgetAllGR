@@ -1,0 +1,448 @@
+2025-02-16 11:44:58 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 11:44:58 - Clicked on link ->None
+2025-02-16 11:45:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:45:18 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 11:45:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-0.html
+2025-02-16 11:45:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:45:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-1.html
+2025-02-16 11:45:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:45:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-2.html
+2025-02-16 11:45:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:45:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-3.html
+2025-02-16 11:45:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:45:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-4.html
+2025-02-16 11:45:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-5.html
+2025-02-16 11:46:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-6.html
+2025-02-16 11:46:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-7.html
+2025-02-16 11:46:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-8.html
+2025-02-16 11:46:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-9.html
+2025-02-16 11:46:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-10.html
+2025-02-16 11:46:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:46:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-11.html
+2025-02-16 11:46:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-12.html
+2025-02-16 11:47:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-13.html
+2025-02-16 11:47:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-14.html
+2025-02-16 11:47:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-15.html
+2025-02-16 11:47:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-16.html
+2025-02-16 11:47:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-17.html
+2025-02-16 11:47:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-18.html
+2025-02-16 11:47:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:47:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-19.html
+2025-02-16 11:47:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-20.html
+2025-02-16 11:48:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-21.html
+2025-02-16 11:48:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-22.html
+2025-02-16 11:48:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-23.html
+2025-02-16 11:48:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-24.html
+2025-02-16 11:48:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-25.html
+2025-02-16 11:48:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:48:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-26.html
+2025-02-16 11:48:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-27.html
+2025-02-16 11:49:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-28.html
+2025-02-16 11:49:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-29.html
+2025-02-16 11:49:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-30.html
+2025-02-16 11:49:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-31.html
+2025-02-16 11:49:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-32.html
+2025-02-16 11:49:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-33.html
+2025-02-16 11:49:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:49:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-34.html
+2025-02-16 11:49:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-35.html
+2025-02-16 11:50:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-36.html
+2025-02-16 11:50:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-37.html
+2025-02-16 11:50:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-38.html
+2025-02-16 11:50:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-39.html
+2025-02-16 11:50:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-40.html
+2025-02-16 11:50:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:50:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-41.html
+2025-02-16 11:50:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-42.html
+2025-02-16 11:51:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-43.html
+2025-02-16 11:51:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-44.html
+2025-02-16 11:51:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-45.html
+2025-02-16 11:51:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-46.html
+2025-02-16 11:51:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-47.html
+2025-02-16 11:51:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-48.html
+2025-02-16 11:51:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:51:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-49.html
+2025-02-16 11:51:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-50.html
+2025-02-16 11:52:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-51.html
+2025-02-16 11:52:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-52.html
+2025-02-16 11:52:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-53.html
+2025-02-16 11:52:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-54.html
+2025-02-16 11:52:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-55.html
+2025-02-16 11:52:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:52:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-56.html
+2025-02-16 11:52:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-57.html
+2025-02-16 11:53:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-58.html
+2025-02-16 11:53:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-59.html
+2025-02-16 11:53:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-60.html
+2025-02-16 11:53:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-61.html
+2025-02-16 11:53:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-62.html
+2025-02-16 11:53:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-63.html
+2025-02-16 11:53:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:53:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-64.html
+2025-02-16 11:53:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-65.html
+2025-02-16 11:54:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-66.html
+2025-02-16 11:54:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-67.html
+2025-02-16 11:54:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-68.html
+2025-02-16 11:54:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-69.html
+2025-02-16 11:54:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-70.html
+2025-02-16 11:54:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:54:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-71.html
+2025-02-16 11:54:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-72.html
+2025-02-16 11:55:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-73.html
+2025-02-16 11:55:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-74.html
+2025-02-16 11:55:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-75.html
+2025-02-16 11:55:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-76.html
+2025-02-16 11:55:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-77.html
+2025-02-16 11:55:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-78.html
+2025-02-16 11:55:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:55:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-79.html
+2025-02-16 11:55:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-80.html
+2025-02-16 11:56:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-81.html
+2025-02-16 11:56:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-82.html
+2025-02-16 11:56:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-83.html
+2025-02-16 11:56:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-84.html
+2025-02-16 11:56:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-85.html
+2025-02-16 11:56:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:56:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-86.html
+2025-02-16 11:56:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-87.html
+2025-02-16 11:57:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-88.html
+2025-02-16 11:57:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-89.html
+2025-02-16 11:57:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-90.html
+2025-02-16 11:57:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-91.html
+2025-02-16 11:57:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-92.html
+2025-02-16 11:57:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-93.html
+2025-02-16 11:57:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:57:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-94.html
+2025-02-16 11:57:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-95.html
+2025-02-16 11:58:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-96.html
+2025-02-16 11:58:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-97.html
+2025-02-16 11:58:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-98.html
+2025-02-16 11:58:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-99.html
+2025-02-16 11:58:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-100.html
+2025-02-16 11:58:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-101.html
+2025-02-16 11:58:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:58:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-102.html
+2025-02-16 11:59:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-103.html
+2025-02-16 11:59:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-104.html
+2025-02-16 11:59:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-105.html
+2025-02-16 11:59:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-106.html
+2025-02-16 11:59:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-107.html
+2025-02-16 11:59:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-108.html
+2025-02-16 11:59:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 11:59:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-109.html
+2025-02-16 11:59:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-110.html
+2025-02-16 12:00:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-111.html
+2025-02-16 12:00:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-112.html
+2025-02-16 12:00:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-113.html
+2025-02-16 12:00:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-114.html
+2025-02-16 12:00:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-115.html
+2025-02-16 12:00:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:00:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-116.html
+2025-02-16 12:00:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-117.html
+2025-02-16 12:01:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-118.html
+2025-02-16 12:01:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-119.html
+2025-02-16 12:01:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-120.html
+2025-02-16 12:01:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-121.html
+2025-02-16 12:01:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-122.html
+2025-02-16 12:01:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-123.html
+2025-02-16 12:01:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:01:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-124.html
+2025-02-16 12:01:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-125.html
+2025-02-16 12:02:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-126.html
+2025-02-16 12:02:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-127.html
+2025-02-16 12:02:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-128.html
+2025-02-16 12:02:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-129.html
+2025-02-16 12:02:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-130.html
+2025-02-16 12:02:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:02:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-131.html
+2025-02-16 12:02:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-132.html
+2025-02-16 12:03:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-133.html
+2025-02-16 12:03:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-134.html
+2025-02-16 12:03:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-135.html
+2025-02-16 12:03:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-136.html
+2025-02-16 12:03:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-137.html
+2025-02-16 12:03:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-138.html
+2025-02-16 12:03:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:03:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-139.html
+2025-02-16 12:04:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-140.html
+2025-02-16 12:04:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-141.html
+2025-02-16 12:04:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-142.html
+2025-02-16 12:04:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-143.html
+2025-02-16 12:04:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-144.html
+2025-02-16 12:04:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-145.html
+2025-02-16 12:04:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:04:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-146.html
+2025-02-16 12:04:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-147.html
+2025-02-16 12:05:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-148.html
+2025-02-16 12:05:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-149.html
+2025-02-16 12:05:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-150.html
+2025-02-16 12:05:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-151.html
+2025-02-16 12:05:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-152.html
+2025-02-16 12:05:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-153.html
+2025-02-16 12:05:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:05:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-154.html
+2025-02-16 12:05:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-155.html
+2025-02-16 12:06:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-156.html
+2025-02-16 12:06:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-157.html
+2025-02-16 12:06:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-158.html
+2025-02-16 12:06:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-159.html
+2025-02-16 12:06:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-160.html
+2025-02-16 12:06:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:06:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-161.html
+2025-02-16 12:06:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-162.html
+2025-02-16 12:07:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-163.html
+2025-02-16 12:07:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-164.html
+2025-02-16 12:07:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-165.html
+2025-02-16 12:07:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-166.html
+2025-02-16 12:07:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-167.html
+2025-02-16 12:07:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-168.html
+2025-02-16 12:07:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:07:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-169.html
+2025-02-16 12:07:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-170.html
+2025-02-16 12:08:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-171.html
+2025-02-16 12:08:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-172.html
+2025-02-16 12:08:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-173.html
+2025-02-16 12:08:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-174.html
+2025-02-16 12:08:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-175.html
+2025-02-16 12:08:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:08:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-176.html
+2025-02-16 12:08:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-177.html
+2025-02-16 12:09:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-178.html
+2025-02-16 12:09:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-179.html
+2025-02-16 12:09:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-180.html
+2025-02-16 12:09:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-181.html
+2025-02-16 12:09:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-182.html
+2025-02-16 12:09:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:09:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-183.html
+2025-02-16 12:09:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-184.html
+2025-02-16 12:10:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-185.html
+2025-02-16 12:10:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-186.html
+2025-02-16 12:10:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-187.html
+2025-02-16 12:10:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-188.html
+2025-02-16 12:10:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-189.html
+2025-02-16 12:10:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-190.html
+2025-02-16 12:10:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:10:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-191.html
+2025-02-16 12:10:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-192.html
+2025-02-16 12:11:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-193.html
+2025-02-16 12:11:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-194.html
+2025-02-16 12:11:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-195.html
+2025-02-16 12:11:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-196.html
+2025-02-16 12:11:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-197.html
+2025-02-16 12:11:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:11:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-198.html
+2025-02-16 12:11:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-199.html
+2025-02-16 12:12:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-200.html
+2025-02-16 12:12:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-201.html
+2025-02-16 12:12:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-202.html
+2025-02-16 12:12:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-203.html
+2025-02-16 12:12:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-204.html
+2025-02-16 12:12:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:12:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-205.html
+2025-02-16 12:12:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-206.html
+2025-02-16 12:13:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-207.html
+2025-02-16 12:13:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-208.html
+2025-02-16 12:13:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-209.html
+2025-02-16 12:13:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-210.html
+2025-02-16 12:13:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-211.html
+2025-02-16 12:13:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:13:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-212.html
+2025-02-16 12:13:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-213.html
+2025-02-16 12:14:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-214.html
+2025-02-16 12:14:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-215.html
+2025-02-16 12:14:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-216.html
+2025-02-16 12:14:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-217.html
+2025-02-16 12:14:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-218.html
+2025-02-16 12:14:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-219.html
+2025-02-16 12:14:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:14:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-220.html
+2025-02-16 12:14:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 12:15:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahtour/16-Feb-2025_v1/mahtour-221.html
+2025-02-16 12:15:04 - Clicked on link [None, 'Next >', None] - Not Found

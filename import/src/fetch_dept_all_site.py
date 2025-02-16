@@ -59,7 +59,7 @@ def save_doc_infos(doc_infos, output_dir):
     (output_dir / "GRs_log.json").write_text(json.dumps(doc_infos))
 
 
-MaxPages = 1000
+MaxPages = 1500
 BaseURL = "https://gr.maharashtra.gov.in"
 
 

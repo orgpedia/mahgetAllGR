@@ -1,0 +1,488 @@
+2025-02-16 07:26:06 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 07:26:07 - Clicked on link ->None
+2025-02-16 07:26:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:26:27 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 07:26:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-0.html
+2025-02-16 07:26:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:26:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-1.html
+2025-02-16 07:26:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:26:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-2.html
+2025-02-16 07:26:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:26:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-3.html
+2025-02-16 07:26:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-4.html
+2025-02-16 07:27:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-5.html
+2025-02-16 07:27:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-6.html
+2025-02-16 07:27:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-7.html
+2025-02-16 07:27:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-8.html
+2025-02-16 07:27:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-9.html
+2025-02-16 07:27:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:27:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-10.html
+2025-02-16 07:27:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-11.html
+2025-02-16 07:28:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-12.html
+2025-02-16 07:28:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-13.html
+2025-02-16 07:28:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-14.html
+2025-02-16 07:28:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-15.html
+2025-02-16 07:28:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-16.html
+2025-02-16 07:28:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-17.html
+2025-02-16 07:28:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:28:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-18.html
+2025-02-16 07:28:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-19.html
+2025-02-16 07:29:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-20.html
+2025-02-16 07:29:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-21.html
+2025-02-16 07:29:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-22.html
+2025-02-16 07:29:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-23.html
+2025-02-16 07:29:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-24.html
+2025-02-16 07:29:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:29:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-25.html
+2025-02-16 07:29:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-26.html
+2025-02-16 07:30:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-27.html
+2025-02-16 07:30:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-28.html
+2025-02-16 07:30:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-29.html
+2025-02-16 07:30:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-30.html
+2025-02-16 07:30:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-31.html
+2025-02-16 07:30:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-32.html
+2025-02-16 07:30:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:30:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-33.html
+2025-02-16 07:30:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-34.html
+2025-02-16 07:31:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-35.html
+2025-02-16 07:31:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-36.html
+2025-02-16 07:31:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-37.html
+2025-02-16 07:31:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-38.html
+2025-02-16 07:31:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-39.html
+2025-02-16 07:31:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:31:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-40.html
+2025-02-16 07:31:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-41.html
+2025-02-16 07:32:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-42.html
+2025-02-16 07:32:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-43.html
+2025-02-16 07:32:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-44.html
+2025-02-16 07:32:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-45.html
+2025-02-16 07:32:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-46.html
+2025-02-16 07:32:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-47.html
+2025-02-16 07:32:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:32:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-48.html
+2025-02-16 07:33:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-49.html
+2025-02-16 07:33:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-50.html
+2025-02-16 07:33:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-51.html
+2025-02-16 07:33:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-52.html
+2025-02-16 07:33:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-53.html
+2025-02-16 07:33:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-54.html
+2025-02-16 07:33:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:33:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-55.html
+2025-02-16 07:33:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-56.html
+2025-02-16 07:34:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-57.html
+2025-02-16 07:34:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-58.html
+2025-02-16 07:34:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-59.html
+2025-02-16 07:34:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-60.html
+2025-02-16 07:34:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-61.html
+2025-02-16 07:34:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:34:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-62.html
+2025-02-16 07:34:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-63.html
+2025-02-16 07:35:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-64.html
+2025-02-16 07:35:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-65.html
+2025-02-16 07:35:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-66.html
+2025-02-16 07:35:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-67.html
+2025-02-16 07:35:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-68.html
+2025-02-16 07:35:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-69.html
+2025-02-16 07:35:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:35:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-70.html
+2025-02-16 07:35:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:36:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-71.html
+2025-02-16 07:36:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:36:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-72.html
+2025-02-16 07:36:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:36:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-73.html
+2025-02-16 07:36:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:36:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-74.html
+2025-02-16 07:36:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:37:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-75.html
+2025-02-16 07:37:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:37:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-76.html
+2025-02-16 07:37:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:37:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-77.html
+2025-02-16 07:37:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:37:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-78.html
+2025-02-16 07:37:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:37:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-79.html
+2025-02-16 07:37:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:37:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-80.html
+2025-02-16 07:37:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-81.html
+2025-02-16 07:38:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-82.html
+2025-02-16 07:38:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-83.html
+2025-02-16 07:38:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-84.html
+2025-02-16 07:38:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-85.html
+2025-02-16 07:38:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-86.html
+2025-02-16 07:38:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:38:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-87.html
+2025-02-16 07:38:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-88.html
+2025-02-16 07:39:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-89.html
+2025-02-16 07:39:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-90.html
+2025-02-16 07:39:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-91.html
+2025-02-16 07:39:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-92.html
+2025-02-16 07:39:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-93.html
+2025-02-16 07:39:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-94.html
+2025-02-16 07:39:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:39:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-95.html
+2025-02-16 07:39:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-96.html
+2025-02-16 07:40:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-97.html
+2025-02-16 07:40:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-98.html
+2025-02-16 07:40:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-99.html
+2025-02-16 07:40:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-100.html
+2025-02-16 07:40:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-101.html
+2025-02-16 07:40:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:40:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-102.html
+2025-02-16 07:40:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-103.html
+2025-02-16 07:41:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-104.html
+2025-02-16 07:41:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-105.html
+2025-02-16 07:41:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-106.html
+2025-02-16 07:41:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-107.html
+2025-02-16 07:41:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-108.html
+2025-02-16 07:41:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-109.html
+2025-02-16 07:41:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:41:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-110.html
+2025-02-16 07:41:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-111.html
+2025-02-16 07:42:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-112.html
+2025-02-16 07:42:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-113.html
+2025-02-16 07:42:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-114.html
+2025-02-16 07:42:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-115.html
+2025-02-16 07:42:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-116.html
+2025-02-16 07:42:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:42:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-117.html
+2025-02-16 07:42:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-118.html
+2025-02-16 07:43:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-119.html
+2025-02-16 07:43:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-120.html
+2025-02-16 07:43:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-121.html
+2025-02-16 07:43:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-122.html
+2025-02-16 07:43:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-123.html
+2025-02-16 07:43:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-124.html
+2025-02-16 07:43:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:43:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-125.html
+2025-02-16 07:43:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-126.html
+2025-02-16 07:44:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-127.html
+2025-02-16 07:44:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-128.html
+2025-02-16 07:44:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-129.html
+2025-02-16 07:44:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-130.html
+2025-02-16 07:44:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-131.html
+2025-02-16 07:44:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:44:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-132.html
+2025-02-16 07:44:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-133.html
+2025-02-16 07:45:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-134.html
+2025-02-16 07:45:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-135.html
+2025-02-16 07:45:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-136.html
+2025-02-16 07:45:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-137.html
+2025-02-16 07:45:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-138.html
+2025-02-16 07:45:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:45:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-139.html
+2025-02-16 07:45:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-140.html
+2025-02-16 07:46:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-141.html
+2025-02-16 07:46:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-142.html
+2025-02-16 07:46:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-143.html
+2025-02-16 07:46:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-144.html
+2025-02-16 07:46:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-145.html
+2025-02-16 07:46:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-146.html
+2025-02-16 07:46:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:46:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-147.html
+2025-02-16 07:46:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-148.html
+2025-02-16 07:47:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-149.html
+2025-02-16 07:47:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-150.html
+2025-02-16 07:47:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-151.html
+2025-02-16 07:47:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-152.html
+2025-02-16 07:47:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-153.html
+2025-02-16 07:47:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-154.html
+2025-02-16 07:47:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:47:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-155.html
+2025-02-16 07:48:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-156.html
+2025-02-16 07:48:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-157.html
+2025-02-16 07:48:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-158.html
+2025-02-16 07:48:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-159.html
+2025-02-16 07:48:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-160.html
+2025-02-16 07:48:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-161.html
+2025-02-16 07:48:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:48:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-162.html
+2025-02-16 07:48:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-163.html
+2025-02-16 07:49:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-164.html
+2025-02-16 07:49:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-165.html
+2025-02-16 07:49:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-166.html
+2025-02-16 07:49:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-167.html
+2025-02-16 07:49:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-168.html
+2025-02-16 07:49:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:49:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-169.html
+2025-02-16 07:49:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-170.html
+2025-02-16 07:50:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-171.html
+2025-02-16 07:50:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-172.html
+2025-02-16 07:50:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-173.html
+2025-02-16 07:50:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-174.html
+2025-02-16 07:50:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-175.html
+2025-02-16 07:50:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-176.html
+2025-02-16 07:50:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:50:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-177.html
+2025-02-16 07:50:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-178.html
+2025-02-16 07:51:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-179.html
+2025-02-16 07:51:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-180.html
+2025-02-16 07:51:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-181.html
+2025-02-16 07:51:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-182.html
+2025-02-16 07:51:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-183.html
+2025-02-16 07:51:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:51:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-184.html
+2025-02-16 07:51:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-185.html
+2025-02-16 07:52:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-186.html
+2025-02-16 07:52:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-187.html
+2025-02-16 07:52:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-188.html
+2025-02-16 07:52:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-189.html
+2025-02-16 07:52:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-190.html
+2025-02-16 07:52:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-191.html
+2025-02-16 07:52:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:52:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-192.html
+2025-02-16 07:52:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-193.html
+2025-02-16 07:53:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-194.html
+2025-02-16 07:53:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-195.html
+2025-02-16 07:53:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-196.html
+2025-02-16 07:53:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-197.html
+2025-02-16 07:53:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-198.html
+2025-02-16 07:53:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:53:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-199.html
+2025-02-16 07:53:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-200.html
+2025-02-16 07:54:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-201.html
+2025-02-16 07:54:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-202.html
+2025-02-16 07:54:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-203.html
+2025-02-16 07:54:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-204.html
+2025-02-16 07:54:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-205.html
+2025-02-16 07:54:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:54:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-206.html
+2025-02-16 07:54:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-207.html
+2025-02-16 07:55:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-208.html
+2025-02-16 07:55:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-209.html
+2025-02-16 07:55:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-210.html
+2025-02-16 07:55:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-211.html
+2025-02-16 07:55:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-212.html
+2025-02-16 07:55:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-213.html
+2025-02-16 07:55:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:55:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-214.html
+2025-02-16 07:55:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-215.html
+2025-02-16 07:56:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-216.html
+2025-02-16 07:56:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-217.html
+2025-02-16 07:56:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-218.html
+2025-02-16 07:56:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-219.html
+2025-02-16 07:56:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-220.html
+2025-02-16 07:56:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:56:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-221.html
+2025-02-16 07:57:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:57:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-222.html
+2025-02-16 07:57:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:57:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-223.html
+2025-02-16 07:57:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:57:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-224.html
+2025-02-16 07:57:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:57:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-225.html
+2025-02-16 07:57:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:57:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-226.html
+2025-02-16 07:58:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-227.html
+2025-02-16 07:58:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-228.html
+2025-02-16 07:58:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-229.html
+2025-02-16 07:58:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-230.html
+2025-02-16 07:58:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-231.html
+2025-02-16 07:58:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-232.html
+2025-02-16 07:58:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:58:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-233.html
+2025-02-16 07:58:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-234.html
+2025-02-16 07:59:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-235.html
+2025-02-16 07:59:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-236.html
+2025-02-16 07:59:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-237.html
+2025-02-16 07:59:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-238.html
+2025-02-16 07:59:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-239.html
+2025-02-16 07:59:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-240.html
+2025-02-16 07:59:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 07:59:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahwom/16-Feb-2025_v1/mahwom-241.html
+2025-02-16 07:59:59 - Clicked on link [None, 'Next >', None] - Not Found

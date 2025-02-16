@@ -1,0 +1,792 @@
+2025-02-15 23:47:22 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-15 23:47:23 - Clicked on link ->None
+2025-02-15 23:47:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:43 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-15 23:47:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-0.html
+2025-02-15 23:47:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:47:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-1.html
+2025-02-15 23:47:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-2.html
+2025-02-15 23:48:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-3.html
+2025-02-15 23:48:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-4.html
+2025-02-15 23:48:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-5.html
+2025-02-15 23:48:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-6.html
+2025-02-15 23:48:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-7.html
+2025-02-15 23:48:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:48:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-8.html
+2025-02-15 23:48:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-9.html
+2025-02-15 23:49:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-10.html
+2025-02-15 23:49:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-11.html
+2025-02-15 23:49:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-12.html
+2025-02-15 23:49:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-13.html
+2025-02-15 23:49:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-14.html
+2025-02-15 23:49:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-15.html
+2025-02-15 23:49:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:49:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-16.html
+2025-02-15 23:49:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-17.html
+2025-02-15 23:50:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-18.html
+2025-02-15 23:50:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-19.html
+2025-02-15 23:50:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-20.html
+2025-02-15 23:50:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-21.html
+2025-02-15 23:50:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-22.html
+2025-02-15 23:50:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:50:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-23.html
+2025-02-15 23:50:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-24.html
+2025-02-15 23:51:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-25.html
+2025-02-15 23:51:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-26.html
+2025-02-15 23:51:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-27.html
+2025-02-15 23:51:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-28.html
+2025-02-15 23:51:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-29.html
+2025-02-15 23:51:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-30.html
+2025-02-15 23:51:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:51:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-31.html
+2025-02-15 23:51:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-32.html
+2025-02-15 23:52:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-33.html
+2025-02-15 23:52:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-34.html
+2025-02-15 23:52:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-35.html
+2025-02-15 23:52:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-36.html
+2025-02-15 23:52:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-37.html
+2025-02-15 23:52:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:52:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-38.html
+2025-02-15 23:52:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-39.html
+2025-02-15 23:53:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-40.html
+2025-02-15 23:53:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-41.html
+2025-02-15 23:53:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-42.html
+2025-02-15 23:53:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-43.html
+2025-02-15 23:53:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-44.html
+2025-02-15 23:53:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-45.html
+2025-02-15 23:53:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:53:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-46.html
+2025-02-15 23:53:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-47.html
+2025-02-15 23:54:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-48.html
+2025-02-15 23:54:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-49.html
+2025-02-15 23:54:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-50.html
+2025-02-15 23:54:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-51.html
+2025-02-15 23:54:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-52.html
+2025-02-15 23:54:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:54:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-53.html
+2025-02-15 23:54:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-54.html
+2025-02-15 23:55:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-55.html
+2025-02-15 23:55:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-56.html
+2025-02-15 23:55:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-57.html
+2025-02-15 23:55:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-58.html
+2025-02-15 23:55:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-59.html
+2025-02-15 23:55:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-60.html
+2025-02-15 23:55:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:55:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-61.html
+2025-02-15 23:55:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-62.html
+2025-02-15 23:56:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-63.html
+2025-02-15 23:56:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-64.html
+2025-02-15 23:56:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-65.html
+2025-02-15 23:56:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-66.html
+2025-02-15 23:56:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-67.html
+2025-02-15 23:56:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:56:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-68.html
+2025-02-15 23:56:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-69.html
+2025-02-15 23:57:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-70.html
+2025-02-15 23:57:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-71.html
+2025-02-15 23:57:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-72.html
+2025-02-15 23:57:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-73.html
+2025-02-15 23:57:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-74.html
+2025-02-15 23:57:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-75.html
+2025-02-15 23:57:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:57:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-76.html
+2025-02-15 23:57:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-77.html
+2025-02-15 23:58:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-78.html
+2025-02-15 23:58:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-79.html
+2025-02-15 23:58:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-80.html
+2025-02-15 23:58:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-81.html
+2025-02-15 23:58:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-82.html
+2025-02-15 23:58:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-83.html
+2025-02-15 23:58:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:58:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-84.html
+2025-02-15 23:59:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-85.html
+2025-02-15 23:59:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-86.html
+2025-02-15 23:59:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-87.html
+2025-02-15 23:59:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-88.html
+2025-02-15 23:59:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-89.html
+2025-02-15 23:59:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-90.html
+2025-02-15 23:59:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-15 23:59:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-91.html
+2025-02-15 23:59:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-92.html
+2025-02-16 00:00:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-93.html
+2025-02-16 00:00:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-94.html
+2025-02-16 00:00:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-95.html
+2025-02-16 00:00:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-96.html
+2025-02-16 00:00:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-97.html
+2025-02-16 00:00:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-98.html
+2025-02-16 00:00:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:00:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-99.html
+2025-02-16 00:01:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-100.html
+2025-02-16 00:01:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-101.html
+2025-02-16 00:01:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-102.html
+2025-02-16 00:01:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-103.html
+2025-02-16 00:01:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-104.html
+2025-02-16 00:01:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-105.html
+2025-02-16 00:01:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:01:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-106.html
+2025-02-16 00:01:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-107.html
+2025-02-16 00:02:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-108.html
+2025-02-16 00:02:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-109.html
+2025-02-16 00:02:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-110.html
+2025-02-16 00:02:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-111.html
+2025-02-16 00:02:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-112.html
+2025-02-16 00:02:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-113.html
+2025-02-16 00:02:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:02:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-114.html
+2025-02-16 00:02:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-115.html
+2025-02-16 00:03:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-116.html
+2025-02-16 00:03:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-117.html
+2025-02-16 00:03:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-118.html
+2025-02-16 00:03:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-119.html
+2025-02-16 00:03:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-120.html
+2025-02-16 00:03:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:03:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-121.html
+2025-02-16 00:03:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-122.html
+2025-02-16 00:04:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-123.html
+2025-02-16 00:04:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-124.html
+2025-02-16 00:04:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-125.html
+2025-02-16 00:04:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-126.html
+2025-02-16 00:04:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-127.html
+2025-02-16 00:04:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-128.html
+2025-02-16 00:04:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:04:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-129.html
+2025-02-16 00:04:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-130.html
+2025-02-16 00:05:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-131.html
+2025-02-16 00:05:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-132.html
+2025-02-16 00:05:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-133.html
+2025-02-16 00:05:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-134.html
+2025-02-16 00:05:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-135.html
+2025-02-16 00:05:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:05:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-136.html
+2025-02-16 00:05:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-137.html
+2025-02-16 00:06:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-138.html
+2025-02-16 00:06:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-139.html
+2025-02-16 00:06:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-140.html
+2025-02-16 00:06:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-141.html
+2025-02-16 00:06:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-142.html
+2025-02-16 00:06:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-143.html
+2025-02-16 00:06:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:06:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-144.html
+2025-02-16 00:06:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-145.html
+2025-02-16 00:07:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-146.html
+2025-02-16 00:07:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-147.html
+2025-02-16 00:07:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-148.html
+2025-02-16 00:07:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-149.html
+2025-02-16 00:07:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-150.html
+2025-02-16 00:07:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:07:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-151.html
+2025-02-16 00:07:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-152.html
+2025-02-16 00:08:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-153.html
+2025-02-16 00:08:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-154.html
+2025-02-16 00:08:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-155.html
+2025-02-16 00:08:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-156.html
+2025-02-16 00:08:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-157.html
+2025-02-16 00:08:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-158.html
+2025-02-16 00:08:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:08:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-159.html
+2025-02-16 00:08:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-160.html
+2025-02-16 00:09:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-161.html
+2025-02-16 00:09:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-162.html
+2025-02-16 00:09:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-163.html
+2025-02-16 00:09:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-164.html
+2025-02-16 00:09:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-165.html
+2025-02-16 00:09:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:09:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-166.html
+2025-02-16 00:09:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-167.html
+2025-02-16 00:10:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-168.html
+2025-02-16 00:10:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-169.html
+2025-02-16 00:10:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-170.html
+2025-02-16 00:10:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-171.html
+2025-02-16 00:10:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-172.html
+2025-02-16 00:10:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-173.html
+2025-02-16 00:10:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:10:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-174.html
+2025-02-16 00:11:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-175.html
+2025-02-16 00:11:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-176.html
+2025-02-16 00:11:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-177.html
+2025-02-16 00:11:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-178.html
+2025-02-16 00:11:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-179.html
+2025-02-16 00:11:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-180.html
+2025-02-16 00:11:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:11:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-181.html
+2025-02-16 00:11:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-182.html
+2025-02-16 00:12:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-183.html
+2025-02-16 00:12:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-184.html
+2025-02-16 00:12:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-185.html
+2025-02-16 00:12:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-186.html
+2025-02-16 00:12:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-187.html
+2025-02-16 00:12:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-188.html
+2025-02-16 00:12:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-189.html
+2025-02-16 00:13:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-190.html
+2025-02-16 00:13:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-191.html
+2025-02-16 00:13:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-192.html
+2025-02-16 00:13:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-193.html
+2025-02-16 00:13:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-194.html
+2025-02-16 00:14:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-195.html
+2025-02-16 00:14:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-196.html
+2025-02-16 00:14:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-197.html
+2025-02-16 00:14:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-198.html
+2025-02-16 00:14:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-199.html
+2025-02-16 00:14:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-200.html
+2025-02-16 00:14:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-201.html
+2025-02-16 00:15:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-202.html
+2025-02-16 00:15:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-203.html
+2025-02-16 00:15:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-204.html
+2025-02-16 00:15:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-205.html
+2025-02-16 00:15:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-206.html
+2025-02-16 00:15:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-207.html
+2025-02-16 00:16:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:16:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-208.html
+2025-02-16 00:16:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:16:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-209.html
+2025-02-16 00:16:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:16:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-210.html
+2025-02-16 00:16:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:16:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-211.html
+2025-02-16 00:16:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:16:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-212.html
+2025-02-16 00:16:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:16:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-213.html
+2025-02-16 00:16:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-214.html
+2025-02-16 00:17:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-215.html
+2025-02-16 00:17:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-216.html
+2025-02-16 00:17:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-217.html
+2025-02-16 00:17:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-218.html
+2025-02-16 00:17:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-219.html
+2025-02-16 00:17:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:17:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-220.html
+2025-02-16 00:17:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-221.html
+2025-02-16 00:18:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-222.html
+2025-02-16 00:18:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-223.html
+2025-02-16 00:18:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-224.html
+2025-02-16 00:18:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-225.html
+2025-02-16 00:18:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-226.html
+2025-02-16 00:18:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:18:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-227.html
+2025-02-16 00:18:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-228.html
+2025-02-16 00:19:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-229.html
+2025-02-16 00:19:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-230.html
+2025-02-16 00:19:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-231.html
+2025-02-16 00:19:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-232.html
+2025-02-16 00:19:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-233.html
+2025-02-16 00:19:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:19:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-234.html
+2025-02-16 00:20:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:20:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-235.html
+2025-02-16 00:20:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:20:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-236.html
+2025-02-16 00:20:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:20:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-237.html
+2025-02-16 00:20:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:20:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-238.html
+2025-02-16 00:21:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:21:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-239.html
+2025-02-16 00:21:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:21:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-240.html
+2025-02-16 00:21:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:21:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-241.html
+2025-02-16 00:21:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:21:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-242.html
+2025-02-16 00:21:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:21:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-243.html
+2025-02-16 00:22:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:22:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-244.html
+2025-02-16 00:22:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:22:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-245.html
+2025-02-16 00:22:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:22:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-246.html
+2025-02-16 00:22:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:22:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-247.html
+2025-02-16 00:22:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:22:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-248.html
+2025-02-16 00:22:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:22:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-249.html
+2025-02-16 00:23:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:23:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-250.html
+2025-02-16 00:23:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:23:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-251.html
+2025-02-16 00:23:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:23:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-252.html
+2025-02-16 00:23:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:23:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-253.html
+2025-02-16 00:23:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-254.html
+2025-02-16 00:24:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-255.html
+2025-02-16 00:24:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-256.html
+2025-02-16 00:24:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-257.html
+2025-02-16 00:24:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-258.html
+2025-02-16 00:24:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-259.html
+2025-02-16 00:24:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-260.html
+2025-02-16 00:24:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:24:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-261.html
+2025-02-16 00:24:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-262.html
+2025-02-16 00:25:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-263.html
+2025-02-16 00:25:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-264.html
+2025-02-16 00:25:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-265.html
+2025-02-16 00:25:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-266.html
+2025-02-16 00:25:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-267.html
+2025-02-16 00:25:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:25:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-268.html
+2025-02-16 00:25:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-269.html
+2025-02-16 00:26:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-270.html
+2025-02-16 00:26:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-271.html
+2025-02-16 00:26:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-272.html
+2025-02-16 00:26:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-273.html
+2025-02-16 00:26:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-274.html
+2025-02-16 00:26:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:26:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-275.html
+2025-02-16 00:26:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:27:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-276.html
+2025-02-16 00:27:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:27:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-277.html
+2025-02-16 00:27:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:27:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-278.html
+2025-02-16 00:27:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:27:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-279.html
+2025-02-16 00:27:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:27:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-280.html
+2025-02-16 00:27:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-281.html
+2025-02-16 00:28:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-282.html
+2025-02-16 00:28:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-283.html
+2025-02-16 00:28:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-284.html
+2025-02-16 00:28:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-285.html
+2025-02-16 00:28:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-286.html
+2025-02-16 00:28:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-287.html
+2025-02-16 00:28:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:28:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-288.html
+2025-02-16 00:29:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-289.html
+2025-02-16 00:29:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-290.html
+2025-02-16 00:29:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-291.html
+2025-02-16 00:29:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-292.html
+2025-02-16 00:29:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-293.html
+2025-02-16 00:29:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-294.html
+2025-02-16 00:29:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:29:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-295.html
+2025-02-16 00:29:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-296.html
+2025-02-16 00:30:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-297.html
+2025-02-16 00:30:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-298.html
+2025-02-16 00:30:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-299.html
+2025-02-16 00:30:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-300.html
+2025-02-16 00:30:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-301.html
+2025-02-16 00:30:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:30:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-302.html
+2025-02-16 00:30:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-303.html
+2025-02-16 00:31:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-304.html
+2025-02-16 00:31:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-305.html
+2025-02-16 00:31:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-306.html
+2025-02-16 00:31:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-307.html
+2025-02-16 00:31:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-308.html
+2025-02-16 00:31:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-309.html
+2025-02-16 00:31:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:31:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-310.html
+2025-02-16 00:31:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-311.html
+2025-02-16 00:32:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-312.html
+2025-02-16 00:32:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-313.html
+2025-02-16 00:32:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-314.html
+2025-02-16 00:32:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-315.html
+2025-02-16 00:32:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-316.html
+2025-02-16 00:32:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:32:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-317.html
+2025-02-16 00:32:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-318.html
+2025-02-16 00:33:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-319.html
+2025-02-16 00:33:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-320.html
+2025-02-16 00:33:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-321.html
+2025-02-16 00:33:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-322.html
+2025-02-16 00:33:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-323.html
+2025-02-16 00:33:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-324.html
+2025-02-16 00:33:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:33:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-325.html
+2025-02-16 00:33:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-326.html
+2025-02-16 00:34:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-327.html
+2025-02-16 00:34:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-328.html
+2025-02-16 00:34:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-329.html
+2025-02-16 00:34:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-330.html
+2025-02-16 00:34:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-331.html
+2025-02-16 00:34:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:34:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-332.html
+2025-02-16 00:34:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-333.html
+2025-02-16 00:35:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-334.html
+2025-02-16 00:35:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-335.html
+2025-02-16 00:35:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-336.html
+2025-02-16 00:35:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-337.html
+2025-02-16 00:35:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-338.html
+2025-02-16 00:35:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-339.html
+2025-02-16 00:35:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:35:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-340.html
+2025-02-16 00:35:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-341.html
+2025-02-16 00:36:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-342.html
+2025-02-16 00:36:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-343.html
+2025-02-16 00:36:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-344.html
+2025-02-16 00:36:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-345.html
+2025-02-16 00:36:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-346.html
+2025-02-16 00:36:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:36:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-347.html
+2025-02-16 00:36:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-348.html
+2025-02-16 00:37:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-349.html
+2025-02-16 00:37:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-350.html
+2025-02-16 00:37:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-351.html
+2025-02-16 00:37:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-352.html
+2025-02-16 00:37:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-353.html
+2025-02-16 00:37:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-354.html
+2025-02-16 00:37:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:37:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-355.html
+2025-02-16 00:37:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-356.html
+2025-02-16 00:38:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-357.html
+2025-02-16 00:38:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-358.html
+2025-02-16 00:38:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-359.html
+2025-02-16 00:38:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-360.html
+2025-02-16 00:38:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-361.html
+2025-02-16 00:38:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:38:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-362.html
+2025-02-16 00:38:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-363.html
+2025-02-16 00:39:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-364.html
+2025-02-16 00:39:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-365.html
+2025-02-16 00:39:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-366.html
+2025-02-16 00:39:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-367.html
+2025-02-16 00:39:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-368.html
+2025-02-16 00:39:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-369.html
+2025-02-16 00:39:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:39:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-370.html
+2025-02-16 00:40:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-371.html
+2025-02-16 00:40:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-372.html
+2025-02-16 00:40:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-373.html
+2025-02-16 00:40:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-374.html
+2025-02-16 00:40:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-375.html
+2025-02-16 00:40:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-376.html
+2025-02-16 00:40:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:40:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-377.html
+2025-02-16 00:40:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:41:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-378.html
+2025-02-16 00:41:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:41:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-379.html
+2025-02-16 00:41:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:41:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-380.html
+2025-02-16 00:41:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:41:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-381.html
+2025-02-16 00:41:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:41:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-382.html
+2025-02-16 00:41:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:41:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-383.html
+2025-02-16 00:41:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-384.html
+2025-02-16 00:42:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-385.html
+2025-02-16 00:42:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-386.html
+2025-02-16 00:42:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-387.html
+2025-02-16 00:42:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-388.html
+2025-02-16 00:42:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-389.html
+2025-02-16 00:42:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:42:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-390.html
+2025-02-16 00:42:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:43:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-391.html
+2025-02-16 00:43:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:43:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-392.html
+2025-02-16 00:43:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:43:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahind/15-Feb-2025_v1/mahind-393.html
+2025-02-16 00:43:16 - Clicked on link [None, 'Next >', None] - Not Found

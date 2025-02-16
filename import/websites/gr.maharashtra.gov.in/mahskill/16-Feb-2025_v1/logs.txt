@@ -1,0 +1,338 @@
+2025-02-16 04:18:50 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 04:18:51 - Clicked on link ->None
+2025-02-16 04:19:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:19:10 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 04:19:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-0.html
+2025-02-16 04:19:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:19:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-1.html
+2025-02-16 04:19:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:19:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-2.html
+2025-02-16 04:19:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:19:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-3.html
+2025-02-16 04:19:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:19:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-4.html
+2025-02-16 04:19:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:19:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-5.html
+2025-02-16 04:19:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-6.html
+2025-02-16 04:20:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-7.html
+2025-02-16 04:20:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-8.html
+2025-02-16 04:20:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-9.html
+2025-02-16 04:20:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-10.html
+2025-02-16 04:20:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-11.html
+2025-02-16 04:20:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:20:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-12.html
+2025-02-16 04:20:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-13.html
+2025-02-16 04:21:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-14.html
+2025-02-16 04:21:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-15.html
+2025-02-16 04:21:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-16.html
+2025-02-16 04:21:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-17.html
+2025-02-16 04:21:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-18.html
+2025-02-16 04:21:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-19.html
+2025-02-16 04:21:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:21:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-20.html
+2025-02-16 04:21:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-21.html
+2025-02-16 04:22:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-22.html
+2025-02-16 04:22:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-23.html
+2025-02-16 04:22:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-24.html
+2025-02-16 04:22:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-25.html
+2025-02-16 04:22:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-26.html
+2025-02-16 04:22:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:22:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-27.html
+2025-02-16 04:22:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-28.html
+2025-02-16 04:23:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-29.html
+2025-02-16 04:23:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-30.html
+2025-02-16 04:23:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-31.html
+2025-02-16 04:23:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-32.html
+2025-02-16 04:23:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-33.html
+2025-02-16 04:23:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-34.html
+2025-02-16 04:23:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:23:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-35.html
+2025-02-16 04:23:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-36.html
+2025-02-16 04:24:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-37.html
+2025-02-16 04:24:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-38.html
+2025-02-16 04:24:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-39.html
+2025-02-16 04:24:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-40.html
+2025-02-16 04:24:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-41.html
+2025-02-16 04:24:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:24:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-42.html
+2025-02-16 04:24:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-43.html
+2025-02-16 04:25:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-44.html
+2025-02-16 04:25:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-45.html
+2025-02-16 04:25:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-46.html
+2025-02-16 04:25:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-47.html
+2025-02-16 04:25:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-48.html
+2025-02-16 04:25:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-49.html
+2025-02-16 04:25:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:25:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-50.html
+2025-02-16 04:25:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-51.html
+2025-02-16 04:26:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-52.html
+2025-02-16 04:26:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-53.html
+2025-02-16 04:26:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-54.html
+2025-02-16 04:26:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-55.html
+2025-02-16 04:26:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-56.html
+2025-02-16 04:26:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:26:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-57.html
+2025-02-16 04:26:54 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:01 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-58.html
+2025-02-16 04:27:02 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:09 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-59.html
+2025-02-16 04:27:10 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:17 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-60.html
+2025-02-16 04:27:18 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:25 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-61.html
+2025-02-16 04:27:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-62.html
+2025-02-16 04:27:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-63.html
+2025-02-16 04:27:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-64.html
+2025-02-16 04:27:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:27:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-65.html
+2025-02-16 04:27:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-66.html
+2025-02-16 04:28:07 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:14 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-67.html
+2025-02-16 04:28:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-68.html
+2025-02-16 04:28:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-69.html
+2025-02-16 04:28:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-70.html
+2025-02-16 04:28:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-71.html
+2025-02-16 04:28:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:28:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-72.html
+2025-02-16 04:28:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-73.html
+2025-02-16 04:29:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-74.html
+2025-02-16 04:29:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-75.html
+2025-02-16 04:29:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-76.html
+2025-02-16 04:29:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-77.html
+2025-02-16 04:29:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-78.html
+2025-02-16 04:29:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-79.html
+2025-02-16 04:29:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:29:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-80.html
+2025-02-16 04:30:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-81.html
+2025-02-16 04:30:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-82.html
+2025-02-16 04:30:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-83.html
+2025-02-16 04:30:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-84.html
+2025-02-16 04:30:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-85.html
+2025-02-16 04:30:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-86.html
+2025-02-16 04:30:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:30:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-87.html
+2025-02-16 04:30:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-88.html
+2025-02-16 04:31:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-89.html
+2025-02-16 04:31:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-90.html
+2025-02-16 04:31:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-91.html
+2025-02-16 04:31:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-92.html
+2025-02-16 04:31:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-93.html
+2025-02-16 04:31:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:31:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-94.html
+2025-02-16 04:31:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-95.html
+2025-02-16 04:32:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-96.html
+2025-02-16 04:32:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-97.html
+2025-02-16 04:32:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-98.html
+2025-02-16 04:32:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-99.html
+2025-02-16 04:32:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-100.html
+2025-02-16 04:32:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-101.html
+2025-02-16 04:32:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:32:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-102.html
+2025-02-16 04:32:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-103.html
+2025-02-16 04:33:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-104.html
+2025-02-16 04:33:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-105.html
+2025-02-16 04:33:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-106.html
+2025-02-16 04:33:29 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:36 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-107.html
+2025-02-16 04:33:37 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:44 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-108.html
+2025-02-16 04:33:45 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:33:52 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-109.html
+2025-02-16 04:33:53 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:00 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-110.html
+2025-02-16 04:34:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:08 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-111.html
+2025-02-16 04:34:09 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:16 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-112.html
+2025-02-16 04:34:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-113.html
+2025-02-16 04:34:26 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:33 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-114.html
+2025-02-16 04:34:34 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:41 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-115.html
+2025-02-16 04:34:42 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:49 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-116.html
+2025-02-16 04:34:50 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:34:57 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-117.html
+2025-02-16 04:34:58 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:05 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-118.html
+2025-02-16 04:35:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-119.html
+2025-02-16 04:35:14 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:21 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-120.html
+2025-02-16 04:35:22 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:29 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-121.html
+2025-02-16 04:35:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-122.html
+2025-02-16 04:35:38 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:45 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-123.html
+2025-02-16 04:35:46 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:35:53 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-124.html
+2025-02-16 04:35:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-125.html
+2025-02-16 04:36:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-126.html
+2025-02-16 04:36:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-127.html
+2025-02-16 04:36:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-128.html
+2025-02-16 04:36:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-129.html
+2025-02-16 04:36:35 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:42 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-130.html
+2025-02-16 04:36:43 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:50 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-131.html
+2025-02-16 04:36:51 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:36:58 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-132.html
+2025-02-16 04:36:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:06 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-133.html
+2025-02-16 04:37:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-134.html
+2025-02-16 04:37:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-135.html
+2025-02-16 04:37:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-136.html
+2025-02-16 04:37:32 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-137.html
+2025-02-16 04:37:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-138.html
+2025-02-16 04:37:47 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:37:54 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-139.html
+2025-02-16 04:37:55 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:02 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-140.html
+2025-02-16 04:38:03 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:10 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-141.html
+2025-02-16 04:38:11 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:18 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-142.html
+2025-02-16 04:38:19 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:26 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-143.html
+2025-02-16 04:38:27 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:34 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-144.html
+2025-02-16 04:38:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-145.html
+2025-02-16 04:38:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-146.html
+2025-02-16 04:38:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:38:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-147.html
+2025-02-16 04:39:00 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-148.html
+2025-02-16 04:39:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-149.html
+2025-02-16 04:39:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-150.html
+2025-02-16 04:39:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-151.html
+2025-02-16 04:39:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:39 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-152.html
+2025-02-16 04:39:40 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:47 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-153.html
+2025-02-16 04:39:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:39:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-154.html
+2025-02-16 04:39:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-155.html
+2025-02-16 04:40:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-156.html
+2025-02-16 04:40:12 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:19 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-157.html
+2025-02-16 04:40:20 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:27 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-158.html
+2025-02-16 04:40:28 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:35 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-159.html
+2025-02-16 04:40:36 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:43 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-160.html
+2025-02-16 04:40:44 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:51 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-161.html
+2025-02-16 04:40:52 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:40:59 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-162.html
+2025-02-16 04:40:59 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:41:07 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-163.html
+2025-02-16 04:41:08 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:41:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-164.html
+2025-02-16 04:41:16 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:41:23 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-165.html
+2025-02-16 04:41:24 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 04:41:31 - Saved html at import/websites/gr.maharashtra.gov.in/mahskill/16-Feb-2025_v1/mahskill-166.html
+2025-02-16 04:41:31 - Clicked on link [None, 'Next >', None] - Not Found

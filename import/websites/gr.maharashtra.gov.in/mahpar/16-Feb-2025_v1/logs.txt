@@ -1,0 +1,44 @@
+2025-02-16 00:11:49 - Starting with https://gr.maharashtra.gov.in/1145/Government-Resolutions
+2025-02-16 00:11:50 - Clicked on link ->None
+2025-02-16 00:12:01 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:09 - Clicked on link < Previous->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkPre','')
+2025-02-16 00:12:15 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-0.html
+2025-02-16 00:12:17 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:24 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-1.html
+2025-02-16 00:12:25 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:32 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-2.html
+2025-02-16 00:12:33 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:40 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-3.html
+2025-02-16 00:12:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:48 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-4.html
+2025-02-16 00:12:49 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:12:56 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-5.html
+2025-02-16 00:12:57 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:04 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-6.html
+2025-02-16 00:13:05 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:12 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-7.html
+2025-02-16 00:13:13 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:20 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-8.html
+2025-02-16 00:13:21 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:28 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-9.html
+2025-02-16 00:13:30 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:37 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-10.html
+2025-02-16 00:13:41 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:13:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-11.html
+2025-02-16 00:14:06 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:13 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-12.html
+2025-02-16 00:14:15 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:22 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-13.html
+2025-02-16 00:14:23 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:30 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-14.html
+2025-02-16 00:14:31 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:38 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-15.html
+2025-02-16 00:14:39 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:46 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-16.html
+2025-02-16 00:14:48 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:14:55 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-17.html
+2025-02-16 00:14:56 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:03 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-18.html
+2025-02-16 00:15:04 - Clicked on link Next >->javascript:__doPostBack('ctl00$SitePH$ucPaging$lnkNext','')
+2025-02-16 00:15:11 - Saved html at import/websites/gr.maharashtra.gov.in/mahpar/16-Feb-2025_v1/mahpar-19.html
+2025-02-16 00:15:12 - Clicked on link [None, 'Next >', None] - Not Found
