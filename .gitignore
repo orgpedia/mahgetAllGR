@@ -152,9 +152,9 @@ output/
 
 /import/documents/*
 !/import/documents/archive.json
-!/import/documents/merged_fetch.json
-!/import/documents/pdfs.json
-!/import/documents/wayback.json
+!/import/documents/archive_old.json.gz
+!/import/documents/merged_fetch.json.gz
+!/import/documents/wayback.json.gz
 
 
 
