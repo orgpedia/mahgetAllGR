@@ -168,9 +168,10 @@ def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_jso
     wayback_infos = read_gzipped_json(wayback_json_file)
     archive_infos = json.loads(archive_json_file.read_text()) if archive_json_file.exists() else []
     
-    archive_old_json_file = archive_json_file.parent / f'{archive_json_file.stem}_old{archive_json_file.suffix}'
+    archive_old_json_file = archive_json_file.parent / f'{archive_json_file.stem}_old{archive_json_file.suffix}.gz'
     print(archive_old_json_file)
-    archive_old_infos = read_gzipped_json(archive_old_json_file.read_text()) if archive_old_json_file.exists() else []
+    archive_old_infos = read_gzipped_json(archive_old_json_file) if archive_old_json_file.exists() else []
+    print(f'Old items: {len(archive_old_infos)}')
 
     wayback_info_dict = dict((w["Unique Code"], w) for w in wayback_infos)
     archive_codes = set(a["Unique Code"] for a in archive_infos + archive_old_infos)
