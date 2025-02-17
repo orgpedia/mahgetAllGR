@@ -61,7 +61,7 @@ def request_pdf(url, pdf_file):
     except Exception as e:
         print(f"An exception occurred while downloading {url}: {e}")
 
-    time.sleep(2)
+    time.sleep(0.2)
     return downloaded, dt_str
 
 
@@ -69,7 +69,7 @@ def get_pdf_path(merged_info, pdfs_dir):
     code, dept = merged_info["Unique Code"], merged_info["Department Name"]
     dept_dir_name = dept.replace(" ", "_").replace("&", "and")
     pdf_dept_dir = pdfs_dir / dept_dir_name / Path(code[:4])
-    pdf_dept_dir.mkdir(parents=True, exist_ok=True)    
+    pdf_dept_dir.mkdir(parents=True, exist_ok=True)
     pdf_file = pdf_dept_dir / f"{code}.pdf"
     return pdf_file
 
@@ -158,16 +158,16 @@ def get_file_path(gr_info):
     file_path = file_path.resolve()
     return file_path
 
-
+BatchSize = 50
 def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_json_file, pdfs_dir):
     def read_gzipped_json(file_path):
         with gzip.open(str(file_path), 'rt', encoding='utf-8') as f:
             return json.load(f)
-    
+
     merged_infos = read_gzipped_json(merged_json_file)
     wayback_infos = read_gzipped_json(wayback_json_file)
     archive_infos = json.loads(archive_json_file.read_text()) if archive_json_file.exists() else []
-    
+
     archive_old_json_file = archive_json_file.parent / f'{archive_json_file.stem}_old{archive_json_file.suffix}.gz'
     print(archive_old_json_file)
     archive_old_infos = read_gzipped_json(archive_old_json_file) if archive_old_json_file.exists() else []
@@ -215,12 +215,14 @@ def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_jso
                 info["upload_success"] = False
                 print("Failed")
 
-        
         archive_infos.append(info)
-        archive_json_file.write_text(json.dumps(archive_infos))
-        
+
+        if idx % BatchSize == 0:
+            archive_json_file.write_text(json.dumps(archive_infos))
+
         if (time.time() - start_time) > FiveAndHalfHours:
-            print('Leaving as ran out of time')            
+            archive_json_file.write_text(json.dumps(archive_infos))
+            print('Leaving as ran out of time')
             break
 
 
