@@ -158,7 +158,7 @@ def get_file_path(gr_info):
     file_path = file_path.resolve()
     return file_path
 
-BatchSize = 50
+BatchSize = 10
 def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_json_file, pdfs_dir):
     def read_gzipped_json(file_path):
         with gzip.open(str(file_path), 'rt', encoding='utf-8') as f:
@@ -219,6 +219,7 @@ def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_jso
 
         if idx % BatchSize == 0:
             archive_json_file.write_text(json.dumps(archive_infos))
+            break # TODOOOOO
 
         if (time.time() - start_time) > FiveAndHalfHours:
             archive_json_file.write_text(json.dumps(archive_infos))
