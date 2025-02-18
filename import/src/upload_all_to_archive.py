@@ -89,7 +89,7 @@ def download_pdf(pdfs_dir, merged_info):
         return (pdf_file, d_utc_str) if d_success else (None, d_utc_str)
 
 FiveAndHalfHours = (5 * 60 * 60) + (30 * 60)
-def upload_internet_archive(info, pdf_path):
+def upload_internet_archive(info, pdfs_dir):
     md = info
     code = info["Unique Code"]
 
@@ -126,11 +126,22 @@ def upload_internet_archive(info, pdf_path):
     access_key = os.environ.get("IA_ACCESS_KEY", "")
     secret_key = os.environ.get("IA_SECRET_KEY", "")
 
-    pdf_path = str(pdf_path)
     try:
         if access_key and secret_key:
             config = {"s3": {"access": access_key, "secret": secret_key}}
             item = ia.get_item(identifier, config)
+            if item.exists:
+                archive_url = item.urls.details
+                print(f"\tFound: {identifier} {archive_url}")
+                return archive_url, identifier
+            else:
+                (pdf_path, download_date_utc) = download_pdf(pdfs_dir, info)
+                if pdf_path is not None and pdf_path.exists():
+                    pdf_path = str(pdf_path)
+                else:
+                    print(f"\tDownload Failed: {identifier}")
+                    return None, None
+
             responses = item.upload(
                 pdf_path,
                 metadata=metadata,
@@ -147,7 +158,7 @@ def upload_internet_archive(info, pdf_path):
         return None, None
 
     archive_url = responses[0].url
-    print(f"**Uploaded: {identifier} {archive_url}\n")
+    print(f"\tUploaded: {identifier} {archive_url}")
     return archive_url, identifier
 
 
@@ -196,33 +207,27 @@ def upload_all_internet_archive(merged_json_file, wayback_json_file, archive_jso
         info["url"] = info["Download"]
         info["wayback_url"] = wayback_info.get("archive_url", "") if wayback_info else ""
 
-        pdf_file = get_pdf_path(info, pdfs_dir)
+        #pdf_file = get_pdf_path(info, pdfs_dir)
 
-        if not pdf_file.exists():
-            (pdf_file, download_date_utc) = download_pdf(pdfs_dir, info)
-
-        if not pdf_file:
-            info["upload_success"] = False
-            print("Failed")
+        archive_url, identifier = upload_internet_archive(info, pdfs_dir)
+        if archive_url:
+            info["archive_url"] = archive_url
+            info["identifier"] = identifier
+            info["upload_success"] = True
+            print(f"\t**Success: {archive_url}\n")
         else:
-            archive_url, identifier = upload_internet_archive(info, pdf_file)
-            if archive_url:
-                info["archive_url"] = archive_url
-                info["identifier"] = identifier
-                info["upload_success"] = True
-                print(f"Success: {archive_url}")
-            else:
-                info["upload_success"] = False
-                print("Failed")
+            info["upload_success"] = False
+            print("\t!!Failed\n")
 
         archive_infos.append(info)
 
         if (idx + 1) % BatchSize == 0: # adding 1 to prevent saving when idx==0
             archive_json_file.write_text(json.dumps(archive_infos))
+            print('>>> Written Files <<<')
 
         if (time.time() - start_time) > FiveAndHalfHours:
             archive_json_file.write_text(json.dumps(archive_infos))
-            print('Leaving as ran out of time')
+            print('>>> Leaving as ran out of time')
             break
 
 
